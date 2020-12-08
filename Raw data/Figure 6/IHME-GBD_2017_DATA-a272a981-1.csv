@@ -1,0 +1,781 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+YLDs (Years Lived with Disability),Cambodia,Both,All Ages,Depressive disorders,Rate,2017,426.415018756,582.6229875500001,300.30236484200003
+YLDs (Years Lived with Disability),Cambodia,Both,All Ages,Anxiety disorders,Rate,2017,296.970855463,395.60514496199994,210.65700237899998
+YLDs (Years Lived with Disability),Brunei,Both,All Ages,Depressive disorders,Rate,2017,395.235843169,541.1444282790001,280.439019904
+YLDs (Years Lived with Disability),Brunei,Both,All Ages,Anxiety disorders,Rate,2017,339.01265464700003,454.580658654,240.291696257
+YLDs (Years Lived with Disability),Indonesia,Both,All Ages,Anxiety disorders,Rate,2017,314.254734485,425.161372187,220.903336839
+YLDs (Years Lived with Disability),Canada,Both,All Ages,Depressive disorders,Rate,2017,611.378667996,826.7528056020001,431.59736927600005
+YLDs (Years Lived with Disability),Canada,Both,All Ages,Anxiety disorders,Rate,2017,478.09464932900005,632.206539476,344.97950534
+YLDs (Years Lived with Disability),Indonesia,Both,All Ages,Depressive disorders,Rate,2017,368.375727881,508.784883623,260.541156508
+YLDs (Years Lived with Disability),Laos,Both,All Ages,Depressive disorders,Rate,2017,379.516331725,523.994534392,267.846036044
+YLDs (Years Lived with Disability),Laos,Both,All Ages,Anxiety disorders,Rate,2017,373.383750966,498.958203968,261.949150061
+YLDs (Years Lived with Disability),United States,Both,All Ages,Anxiety disorders,Rate,2017,606.748524228,810.0865356589999,431.652775821
+YLDs (Years Lived with Disability),Vanuatu,Both,All Ages,Depressive disorders,Rate,2017,392.99030438799997,537.6351885170001,277.12836433300004
+YLDs (Years Lived with Disability),Solomon Islands,Both,All Ages,Depressive disorders,Rate,2017,389.411998578,536.452474909,275.986006936
+YLDs (Years Lived with Disability),Solomon Islands,Both,All Ages,Anxiety disorders,Rate,2017,272.36669207700004,368.371209421,191.031357918
+YLDs (Years Lived with Disability),Japan,Both,All Ages,Anxiety disorders,Rate,2017,317.207730642,421.51930419700005,223.790849308
+YLDs (Years Lived with Disability),Malaysia,Both,All Ages,Depressive disorders,Rate,2017,527.334032544,720.973217521,369.151772571
+YLDs (Years Lived with Disability),Malaysia,Both,All Ages,Anxiety disorders,Rate,2017,400.026295571,536.235555328,281.702706148
+YLDs (Years Lived with Disability),Tonga,Both,All Ages,Depressive disorders,Rate,2017,379.015531511,515.690568688,270.418218714
+YLDs (Years Lived with Disability),Tonga,Both,All Ages,Anxiety disorders,Rate,2017,293.596211311,393.12428518699994,206.689107952
+YLDs (Years Lived with Disability),Czech Republic,Both,All Ages,Depressive disorders,Rate,2017,527.462021851,706.935825874,371.887611679
+YLDs (Years Lived with Disability),Montenegro,Both,All Ages,Depressive disorders,Rate,2017,481.677433233,649.5287942179999,338.186523058
+YLDs (Years Lived with Disability),Montenegro,Both,All Ages,Anxiety disorders,Rate,2017,335.170485444,444.86116247700005,236.97334953200001
+YLDs (Years Lived with Disability),Vanuatu,Both,All Ages,Anxiety disorders,Rate,2017,274.985698237,368.69132101499997,194.013871666
+YLDs (Years Lived with Disability),The Bahamas,Both,All Ages,Depressive disorders,Rate,2017,450.115302385,611.936509765,319.25403513000003
+YLDs (Years Lived with Disability),The Bahamas,Both,All Ages,Anxiety disorders,Rate,2017,457.86363850400005,609.778852009,322.216478232
+YLDs (Years Lived with Disability),Trinidad and Tobago,Both,All Ages,Depressive disorders,Rate,2017,614.457749563,830.0393346769999,429.00469223
+YLDs (Years Lived with Disability),Japan,Both,All Ages,Depressive disorders,Rate,2017,590.610514681,791.053781003,417.20537559700006
+YLDs (Years Lived with Disability),Barbados,Both,All Ages,Depressive disorders,Rate,2017,526.019055501,713.167941023,372.434579842
+YLDs (Years Lived with Disability),Barbados,Both,All Ages,Anxiety disorders,Rate,2017,461.737705988,615.783308364,328.70756342199996
+YLDs (Years Lived with Disability),Hungary,Both,All Ages,Depressive disorders,Rate,2017,580.073884198,774.314097171,408.80682302099996
+YLDs (Years Lived with Disability),Hungary,Both,All Ages,Anxiety disorders,Rate,2017,343.469750604,453.125550919,243.75572379
+YLDs (Years Lived with Disability),Poland,Both,All Ages,Depressive disorders,Rate,2017,417.56014258000005,559.0985208239999,297.075207235
+YLDs (Years Lived with Disability),Poland,Both,All Ages,Anxiety disorders,Rate,2017,340.95071109500003,450.303509713,241.464826004
+YLDs (Years Lived with Disability),Armenia,Both,All Ages,Anxiety disorders,Rate,2017,251.878874751,337.677441759,178.175930078
+YLDs (Years Lived with Disability),South Korea,Both,All Ages,Depressive disorders,Rate,2017,591.199365013,796.7443964969999,419.663986203
+YLDs (Years Lived with Disability),South Korea,Both,All Ages,Anxiety disorders,Rate,2017,362.749331619,481.72022073399995,257.723888331
+YLDs (Years Lived with Disability),China,Both,All Ages,Depressive disorders,Rate,2017,607.347568107,820.175593639,427.71082275
+YLDs (Years Lived with Disability),Kazakhstan,Both,All Ages,Depressive disorders,Rate,2017,570.070007667,771.047390106,397.41963413100007
+YLDs (Years Lived with Disability),Kazakhstan,Both,All Ages,Anxiety disorders,Rate,2017,237.15887001200002,317.024946769,168.04277558200002
+YLDs (Years Lived with Disability),North Korea,Both,All Ages,Depressive disorders,Rate,2017,520.023680449,703.2177215830001,362.83592131300003
+YLDs (Years Lived with Disability),North Korea,Both,All Ages,Anxiety disorders,Rate,2017,325.218481427,432.435665236,229.62285311499997
+YLDs (Years Lived with Disability),Maldives,Both,All Ages,Depressive disorders,Rate,2017,455.58377148200003,627.008362854,320.195630925
+YLDs (Years Lived with Disability),Bolivia,Both,All Ages,Depressive disorders,Rate,2017,472.329284354,643.434194373,330.189816284
+YLDs (Years Lived with Disability),Bolivia,Both,All Ages,Anxiety disorders,Rate,2017,381.612888344,511.69807200099996,270.068269939
+YLDs (Years Lived with Disability),China,Both,All Ages,Anxiety disorders,Rate,2017,303.14965915100004,402.278400534,214.10987217
+YLDs (Years Lived with Disability),Trinidad and Tobago,Both,All Ages,Anxiety disorders,Rate,2017,447.54493647,594.148166649,314.410892397
+YLDs (Years Lived with Disability),Philippines,Both,All Ages,Anxiety disorders,Rate,2017,292.31861229099997,388.450804875,203.752285762
+YLDs (Years Lived with Disability),Singapore,Both,All Ages,Depressive disorders,Rate,2017,587.3898936539999,799.996107799,416.90885731799995
+YLDs (Years Lived with Disability),Singapore,Both,All Ages,Anxiety disorders,Rate,2017,349.663589409,466.339981185,247.838565451
+YLDs (Years Lived with Disability),Kyrgyzstan,Both,All Ages,Depressive disorders,Rate,2017,441.31396351,602.9008673310001,312.06507263500004
+YLDs (Years Lived with Disability),Kyrgyzstan,Both,All Ages,Anxiety disorders,Rate,2017,227.352353608,304.701260347,160.709583209
+YLDs (Years Lived with Disability),Australia,Both,All Ages,Depressive disorders,Rate,2017,765.168303414,1043.3825541,537.157834402
+YLDs (Years Lived with Disability),Australia,Both,All Ages,Anxiety disorders,Rate,2017,577.601653134,762.884258633,407.87435041
+YLDs (Years Lived with Disability),Taiwan,Both,All Ages,Depressive disorders,Rate,2017,541.436328629,733.03123182,381.257812947
+YLDs (Years Lived with Disability),Taiwan,Both,All Ages,Anxiety disorders,Rate,2017,347.80344333799997,462.413523091,246.667418917
+YLDs (Years Lived with Disability),Austria,Both,All Ages,Depressive disorders,Rate,2017,555.715643816,752.916097015,396.680180731
+YLDs (Years Lived with Disability),Macedonia,Both,All Ages,Depressive disorders,Rate,2017,438.353377932,592.851788871,312.717698027
+YLDs (Years Lived with Disability),Macedonia,Both,All Ages,Anxiety disorders,Rate,2017,337.539679661,450.379920712,239.477453764
+YLDs (Years Lived with Disability),Maldives,Both,All Ages,Anxiety disorders,Rate,2017,299.138955303,398.79035722800006,210.40530391
+YLDs (Years Lived with Disability),Timor-Leste,Both,All Ages,Depressive disorders,Rate,2017,395.98985090199994,550.0201343269999,281.131708343
+YLDs (Years Lived with Disability),Timor-Leste,Both,All Ages,Anxiety disorders,Rate,2017,274.12448844,368.57345116899995,193.725710016
+YLDs (Years Lived with Disability),Luxembourg,Both,All Ages,Depressive disorders,Rate,2017,621.162423736,841.66792486,440.386438951
+YLDs (Years Lived with Disability),Luxembourg,Both,All Ages,Anxiety disorders,Rate,2017,491.079648257,649.10496758,351.291383021
+YLDs (Years Lived with Disability),Vietnam,Both,All Ages,Depressive disorders,Rate,2017,431.48544233,595.6629832360001,304.213367187
+YLDs (Years Lived with Disability),Vietnam,Both,All Ages,Anxiety disorders,Rate,2017,201.21561903300002,268.803688035,142.87172516799998
+YLDs (Years Lived with Disability),Czech Republic,Both,All Ages,Anxiety disorders,Rate,2017,335.953133439,446.242178217,238.479376776
+YLDs (Years Lived with Disability),Iceland,Both,All Ages,Depressive disorders,Rate,2017,544.421763073,739.958777102,389.850963178
+YLDs (Years Lived with Disability),Iceland,Both,All Ages,Anxiety disorders,Rate,2017,485.59873257,641.854397919,345.152899559
+YLDs (Years Lived with Disability),Burundi,Both,All Ages,Depressive disorders,Rate,2017,450.46276905999997,622.943643911,315.902543041
+YLDs (Years Lived with Disability),Burundi,Both,All Ages,Anxiety disorders,Rate,2017,300.05904910500004,402.842808797,212.27204815500002
+YLDs (Years Lived with Disability),Belgium,Both,All Ages,Depressive disorders,Rate,2017,724.294804699,971.6154338130001,510.327905926
+YLDs (Years Lived with Disability),Belgium,Both,All Ages,Anxiety disorders,Rate,2017,468.343000208,623.2408910720001,334.36458688100004
+YLDs (Years Lived with Disability),Ireland,Both,All Ages,Depressive disorders,Rate,2017,695.60577384,932.328288204,486.046911933
+YLDs (Years Lived with Disability),Ireland,Both,All Ages,Anxiety disorders,Rate,2017,525.9982084760001,699.439634366,372.631111484
+YLDs (Years Lived with Disability),Comoros,Both,All Ages,Depressive disorders,Rate,2017,469.48037911,645.501111939,329.86829853899997
+YLDs (Years Lived with Disability),Comoros,Both,All Ages,Anxiety disorders,Rate,2017,329.848549063,439.77992387200004,233.00075241000002
+YLDs (Years Lived with Disability),Cyprus,Both,All Ages,Depressive disorders,Rate,2017,557.524556657,756.443092236,395.737969279
+YLDs (Years Lived with Disability),Cyprus,Both,All Ages,Anxiety disorders,Rate,2017,499.6021743,662.400535053,355.70700765199996
+YLDs (Years Lived with Disability),Netherlands,Both,All Ages,Depressive disorders,Rate,2017,678.054668041,918.189154949,483.03190537399996
+YLDs (Years Lived with Disability),Netherlands,Both,All Ages,Anxiety disorders,Rate,2017,607.42611801,804.876875966,431.751737926
+YLDs (Years Lived with Disability),Algeria,Both,All Ages,Depressive disorders,Rate,2017,605.286948337,823.1613567420001,429.539683432
+YLDs (Years Lived with Disability),Algeria,Both,All Ages,Anxiety disorders,Rate,2017,465.278593009,623.996949461,331.571998323
+YLDs (Years Lived with Disability),Malta,Both,All Ages,Depressive disorders,Rate,2017,566.474580658,766.474879337,405.50052372700003
+YLDs (Years Lived with Disability),Niger,Both,All Ages,Depressive disorders,Rate,2017,365.82859602400003,503.636352077,257.764569881
+YLDs (Years Lived with Disability),Jamaica,Both,All Ages,Depressive disorders,Rate,2017,442.129174722,604.34350151,314.872633602
+YLDs (Years Lived with Disability),Jamaica,Both,All Ages,Anxiety disorders,Rate,2017,447.82353585000004,599.394228883,315.74594078
+YLDs (Years Lived with Disability),Gabon,Both,All Ages,Depressive disorders,Rate,2017,627.4979671890001,851.351967909,440.687036111
+YLDs (Years Lived with Disability),Gabon,Both,All Ages,Anxiety disorders,Rate,2017,302.91818250800003,407.3375328,212.90861131499997
+YLDs (Years Lived with Disability),Norway,Both,All Ages,Depressive disorders,Rate,2017,638.838946408,869.1987910920001,453.82119101800004
+YLDs (Years Lived with Disability),Norway,Both,All Ages,Anxiety disorders,Rate,2017,696.403659959,933.895427399,491.099585616
+YLDs (Years Lived with Disability),Saint Lucia,Both,All Ages,Depressive disorders,Rate,2017,513.192260455,695.405141366,363.124557933
+YLDs (Years Lived with Disability),Saint Lucia,Both,All Ages,Anxiety disorders,Rate,2017,454.87997041799997,609.308351774,321.786458525
+YLDs (Years Lived with Disability),Myanmar,Both,All Ages,Depressive disorders,Rate,2017,291.651520652,402.40336905099997,205.952445617
+YLDs (Years Lived with Disability),Myanmar,Both,All Ages,Anxiety disorders,Rate,2017,314.854033826,414.17591318099994,221.38919357999998
+YLDs (Years Lived with Disability),Guam,Both,All Ages,Anxiety disorders,Rate,2017,307.968330525,411.58930803,218.156833051
+YLDs (Years Lived with Disability),Kiribati,Both,All Ages,Depressive disorders,Rate,2017,406.788434979,557.875052197,287.436301204
+YLDs (Years Lived with Disability),New Zealand,Both,All Ages,Depressive disorders,Rate,2017,591.767602677,808.93909948,418.749368103
+YLDs (Years Lived with Disability),New Zealand,Both,All Ages,Anxiety disorders,Rate,2017,732.76054864,970.268811023,518.131194768
+YLDs (Years Lived with Disability),Malta,Both,All Ages,Anxiety disorders,Rate,2017,488.592554532,641.710397962,347.467964587
+YLDs (Years Lived with Disability),Dominica,Both,All Ages,Depressive disorders,Rate,2017,467.068636974,634.323201925,331.479829066
+YLDs (Years Lived with Disability),Bahrain,Both,All Ages,Depressive disorders,Rate,2017,760.208262932,1040.66208328,535.199302748
+YLDs (Years Lived with Disability),Bahrain,Both,All Ages,Anxiety disorders,Rate,2017,467.69196200199997,628.0574649819999,332.732065987
+YLDs (Years Lived with Disability),Turkey,Both,All Ages,Depressive disorders,Rate,2017,643.2547533779999,871.81434493,458.98101546699996
+YLDs (Years Lived with Disability),Turkey,Both,All Ages,Anxiety disorders,Rate,2017,371.284539807,495.612455063,265.443568151
+YLDs (Years Lived with Disability),Romania,Both,All Ages,Depressive disorders,Rate,2017,469.833101487,630.981560757,335.058307969
+YLDs (Years Lived with Disability),Romania,Both,All Ages,Anxiety disorders,Rate,2017,321.96455797100003,426.161291865,229.054108254
+YLDs (Years Lived with Disability),Dominica,Both,All Ages,Anxiety disorders,Rate,2017,443.76945513799996,590.861390685,313.68809874000004
+YLDs (Years Lived with Disability),United Arab Emirates,Both,All Ages,Depressive disorders,Rate,2017,579.913033047,801.146676512,402.61448722399996
+YLDs (Years Lived with Disability),Nigeria,Both,All Ages,Depressive disorders,Rate,2017,478.07051584100003,654.324097217,335.237933204
+YLDs (Years Lived with Disability),Nigeria,Both,All Ages,Anxiety disorders,Rate,2017,249.364849708,333.78125693100003,176.915103129
+YLDs (Years Lived with Disability),Dominican Republic,Both,All Ages,Depressive disorders,Rate,2017,493.147992239,671.767214576,348.816318767
+YLDs (Years Lived with Disability),Dominican Republic,Both,All Ages,Anxiety disorders,Rate,2017,431.335426343,577.075912753,305.075436869
+YLDs (Years Lived with Disability),Botswana,Both,All Ages,Depressive disorders,Rate,2017,609.700036633,832.218364694,425.22145689200005
+YLDs (Years Lived with Disability),Botswana,Both,All Ages,Anxiety disorders,Rate,2017,323.873693266,433.59552420100005,229.26226416800003
+YLDs (Years Lived with Disability),Portugal,Both,All Ages,Depressive disorders,Rate,2017,810.8381390920001,1093.07089773,575.454039535
+YLDs (Years Lived with Disability),United Arab Emirates,Both,All Ages,Anxiety disorders,Rate,2017,449.18187985500003,608.8399999119999,316.946227659
+YLDs (Years Lived with Disability),Portugal,Both,All Ages,Anxiety disorders,Rate,2017,500.252167017,660.982137401,357.552668952
+YLDs (Years Lived with Disability),Grenada,Both,All Ages,Anxiety disorders,Rate,2017,435.386378977,580.696774789,307.572239653
+YLDs (Years Lived with Disability),Marshall Islands,Both,All Ages,Depressive disorders,Rate,2017,412.404050811,564.597756158,291.412681038
+YLDs (Years Lived with Disability),Marshall Islands,Both,All Ages,Anxiety disorders,Rate,2017,288.675419867,387.220963347,203.33297560100002
+YLDs (Years Lived with Disability),Belize,Both,All Ages,Depressive disorders,Rate,2017,440.727264985,598.8257716349999,310.640239391
+YLDs (Years Lived with Disability),Belize,Both,All Ages,Anxiety disorders,Rate,2017,425.03702049500004,568.065293265,299.331574585
+YLDs (Years Lived with Disability),Egypt,Both,All Ages,Depressive disorders,Rate,2017,497.68021003999996,675.695258499,350.54038528399997
+YLDs (Years Lived with Disability),Egypt,Both,All Ages,Anxiety disorders,Rate,2017,392.58654055600005,521.954207295,277.927482112
+YLDs (Years Lived with Disability),Djibouti,Both,All Ages,Depressive disorders,Rate,2017,510.920383646,693.8353269659999,359.27238911
+YLDs (Years Lived with Disability),Djibouti,Both,All Ages,Anxiety disorders,Rate,2017,323.369705065,432.27813606700005,226.00282237300001
+YLDs (Years Lived with Disability),Northern Mariana Islands,Both,All Ages,Depressive disorders,Rate,2017,517.324874105,703.3350233470001,367.12913183899997
+YLDs (Years Lived with Disability),Northern Mariana Islands,Both,All Ages,Anxiety disorders,Rate,2017,333.937504365,448.266963437,235.15124873800002
+YLDs (Years Lived with Disability),Fiji,Both,All Ages,Depressive disorders,Rate,2017,454.61999439600004,619.133760391,321.976548504
+YLDs (Years Lived with Disability),Fiji,Both,All Ages,Anxiety disorders,Rate,2017,299.050762259,401.340531041,211.785557926
+YLDs (Years Lived with Disability),Israel,Both,All Ages,Depressive disorders,Rate,2017,591.180148172,803.1202496259999,421.43993174900004
+YLDs (Years Lived with Disability),Israel,Both,All Ages,Anxiety disorders,Rate,2017,271.60050392200003,360.93839221999997,192.414365755
+YLDs (Years Lived with Disability),Kuwait,Both,All Ages,Depressive disorders,Rate,2017,674.5010116,922.8794078610001,476.42218018200003
+YLDs (Years Lived with Disability),Kuwait,Both,All Ages,Anxiety disorders,Rate,2017,500.19720837399996,673.785438807,351.648516568
+YLDs (Years Lived with Disability),Sao Tome and Principe,Both,All Ages,Depressive disorders,Rate,2017,420.181962064,578.69099179,297.378965447
+YLDs (Years Lived with Disability),Sao Tome and Principe,Both,All Ages,Anxiety disorders,Rate,2017,266.91617929,355.079303461,186.444437813
+YLDs (Years Lived with Disability),Federated States of Micronesia,Both,All Ages,Depressive disorders,Rate,2017,431.69074822100004,585.991669321,305.483226951
+YLDs (Years Lived with Disability),Federated States of Micronesia,Both,All Ages,Anxiety disorders,Rate,2017,295.82114672200004,393.764855331,208.88632820200002
+YLDs (Years Lived with Disability),Serbia,Both,All Ages,Depressive disorders,Rate,2017,508.491752578,678.432918613,357.17651903899997
+YLDs (Years Lived with Disability),Serbia,Both,All Ages,Anxiety disorders,Rate,2017,335.873277372,443.19434145199995,240.23732773400002
+YLDs (Years Lived with Disability),Lesotho,Both,All Ages,Depressive disorders,Rate,2017,886.79301889,1203.25183608,627.732391996
+YLDs (Years Lived with Disability),Lesotho,Both,All Ages,Anxiety disorders,Rate,2017,315.054091684,421.162447411,223.089712522
+YLDs (Years Lived with Disability),Ecuador,Both,All Ages,Depressive disorders,Rate,2017,485.38018115200003,666.100464264,341.48291444
+YLDs (Years Lived with Disability),Ecuador,Both,All Ages,Anxiety disorders,Rate,2017,401.593085857,534.134444626,284.164381555
+YLDs (Years Lived with Disability),Yemen,Both,All Ages,Depressive disorders,Rate,2017,560.6952278580001,762.300337064,395.703957493
+YLDs (Years Lived with Disability),Yemen,Both,All Ages,Anxiety disorders,Rate,2017,407.624297996,543.053016244,289.488737822
+YLDs (Years Lived with Disability),United States,Both,All Ages,Depressive disorders,Rate,2017,779.2408272060001,1047.66499237,552.550874614
+YLDs (Years Lived with Disability),Colombia,Both,All Ages,Depressive disorders,Rate,2017,371.343009343,506.81174610700003,259.943003649
+YLDs (Years Lived with Disability),Colombia,Both,All Ages,Anxiety disorders,Rate,2017,236.907559966,315.69199461,168.014985472
+YLDs (Years Lived with Disability),Kiribati,Both,All Ages,Anxiety disorders,Rate,2017,280.673064576,376.93402556,199.100593631
+YLDs (Years Lived with Disability),Lebanon,Both,All Ages,Depressive disorders,Rate,2017,596.673647406,816.069408745,417.91962179100005
+YLDs (Years Lived with Disability),Armenia,Both,All Ages,Depressive disorders,Rate,2017,481.790441407,655.004399803,342.576456829
+YLDs (Years Lived with Disability),Iran,Both,All Ages,Anxiety disorders,Rate,2017,664.972473607,888.0350018500001,467.115891661
+YLDs (Years Lived with Disability),Bulgaria,Both,All Ages,Depressive disorders,Rate,2017,524.433873004,703.683281735,368.748881569
+YLDs (Years Lived with Disability),Bulgaria,Both,All Ages,Anxiety disorders,Rate,2017,361.153231354,477.191784615,253.05825093599998
+YLDs (Years Lived with Disability),Lebanon,Both,All Ages,Anxiety disorders,Rate,2017,554.314692144,741.1420272199999,392.445284833
+YLDs (Years Lived with Disability),Italy,Both,All Ages,Depressive disorders,Rate,2017,632.5499613239999,855.8928933469999,446.178537854
+YLDs (Years Lived with Disability),Italy,Both,All Ages,Anxiety disorders,Rate,2017,525.8423160880001,698.797291183,370.360799186
+YLDs (Years Lived with Disability),Mali,Both,All Ages,Depressive disorders,Rate,2017,331.61336763500003,450.517103317,233.065483755
+YLDs (Years Lived with Disability),Croatia,Both,All Ages,Depressive disorders,Rate,2017,578.13516664,767.959266892,408.496679709
+YLDs (Years Lived with Disability),Swaziland,Both,All Ages,Depressive disorders,Rate,2017,571.739812768,778.02275417,400.442502103
+YLDs (Years Lived with Disability),Swaziland,Both,All Ages,Anxiety disorders,Rate,2017,309.39931639900004,416.002135448,220.31628357
+YLDs (Years Lived with Disability),Eritrea,Both,All Ages,Depressive disorders,Rate,2017,493.57829139500006,672.404144101,345.48944886699996
+YLDs (Years Lived with Disability),Eritrea,Both,All Ages,Anxiety disorders,Rate,2017,317.48488844499997,422.438955896,224.37078618099997
+YLDs (Years Lived with Disability),Croatia,Both,All Ages,Anxiety disorders,Rate,2017,341.682821749,450.194436149,243.83536471500003
+YLDs (Years Lived with Disability),Afghanistan,Both,All Ages,Depressive disorders,Rate,2017,528.298584719,723.7109341180001,371.179755012
+YLDs (Years Lived with Disability),Afghanistan,Both,All Ages,Anxiety disorders,Rate,2017,390.901830606,520.116929316,273.426744815
+YLDs (Years Lived with Disability),Azerbaijan,Both,All Ages,Depressive disorders,Rate,2017,399.264076186,549.349443907,282.74438627300003
+YLDs (Years Lived with Disability),Azerbaijan,Both,All Ages,Anxiety disorders,Rate,2017,244.86757607299998,329.591148721,172.723207433
+YLDs (Years Lived with Disability),Mozambique,Both,All Ages,Depressive disorders,Rate,2017,467.47432193799995,641.968419164,327.367140807
+YLDs (Years Lived with Disability),Mongolia,Both,All Ages,Depressive disorders,Rate,2017,553.0890109019999,751.94692639,387.04098815500004
+YLDs (Years Lived with Disability),Mongolia,Both,All Ages,Anxiety disorders,Rate,2017,231.916473809,312.630363632,163.475466815
+YLDs (Years Lived with Disability),Zimbabwe,Both,All Ages,Depressive disorders,Rate,2017,382.477039037,523.55797774,271.018481151
+YLDs (Years Lived with Disability),Zimbabwe,Both,All Ages,Anxiety disorders,Rate,2017,269.230798789,362.03903872,187.890150117
+YLDs (Years Lived with Disability),Mozambique,Both,All Ages,Anxiety disorders,Rate,2017,306.508494225,411.61004225000005,217.795197135
+YLDs (Years Lived with Disability),Belarus,Both,All Ages,Depressive disorders,Rate,2017,782.023236496,1048.8050187400002,548.7521586009999
+YLDs (Years Lived with Disability),Belarus,Both,All Ages,Anxiety disorders,Rate,2017,283.209092035,376.003587281,202.016672933
+YLDs (Years Lived with Disability),Namibia,Both,All Ages,Depressive disorders,Rate,2017,487.072770507,665.6612553260001,346.121626441
+YLDs (Years Lived with Disability),Rwanda,Both,All Ages,Depressive disorders,Rate,2017,504.17458004400004,685.469470593,354.370737232
+YLDs (Years Lived with Disability),Rwanda,Both,All Ages,Anxiety disorders,Rate,2017,315.23826095100003,423.821456066,220.190920179
+YLDs (Years Lived with Disability),Mali,Both,All Ages,Anxiety disorders,Rate,2017,241.398554091,321.440577339,170.49001739
+YLDs (Years Lived with Disability),Tajikistan,Both,All Ages,Depressive disorders,Rate,2017,333.793225129,455.836088815,236.88498237800002
+YLDs (Years Lived with Disability),Tajikistan,Both,All Ages,Anxiety disorders,Rate,2017,220.423968877,294.019404586,155.17163185700002
+YLDs (Years Lived with Disability),Philippines,Both,All Ages,Depressive disorders,Rate,2017,357.188901692,488.65237476000004,251.64939409200002
+YLDs (Years Lived with Disability),Costa Rica,Both,All Ages,Depressive disorders,Rate,2017,515.231139528,704.258743006,364.95480048900004
+YLDs (Years Lived with Disability),Mauritania,Both,All Ages,Depressive disorders,Rate,2017,379.278326338,520.823464395,269.887388103
+YLDs (Years Lived with Disability),Mauritania,Both,All Ages,Anxiety disorders,Rate,2017,257.72023401999996,345.671060787,181.165336217
+YLDs (Years Lived with Disability),Georgia,Both,All Ages,Depressive disorders,Rate,2017,507.12911017299996,679.449522801,359.42751960000004
+YLDs (Years Lived with Disability),Georgia,Both,All Ages,Anxiety disorders,Rate,2017,251.692223975,333.866908175,177.758965669
+YLDs (Years Lived with Disability),Estonia,Both,All Ages,Depressive disorders,Rate,2017,769.641708668,1032.35436805,540.875587674
+YLDs (Years Lived with Disability),Estonia,Both,All Ages,Anxiety disorders,Rate,2017,282.222718886,371.740154092,202.263104043
+YLDs (Years Lived with Disability),Cuba,Both,All Ages,Depressive disorders,Rate,2017,688.6757417279999,932.409091562,481.58405777499996
+YLDs (Years Lived with Disability),Cuba,Both,All Ages,Anxiety disorders,Rate,2017,460.97371322300006,617.969441671,326.577539651
+YLDs (Years Lived with Disability),Costa Rica,Both,All Ages,Anxiety disorders,Rate,2017,281.775965707,374.417793093,200.59983417799998
+YLDs (Years Lived with Disability),Bangladesh,Both,All Ages,Anxiety disorders,Rate,2017,400.78258646899997,530.9654747010001,281.823953254
+YLDs (Years Lived with Disability),Sri Lanka,Both,All Ages,Depressive disorders,Rate,2017,553.636971142,753.7952267300001,387.777923379
+YLDs (Years Lived with Disability),Sri Lanka,Both,All Ages,Anxiety disorders,Rate,2017,326.11403592700003,431.56240671100005,231.654761069
+YLDs (Years Lived with Disability),Antigua and Barbuda,Both,All Ages,Depressive disorders,Rate,2017,451.441490346,610.6888030050001,316.175414435
+YLDs (Years Lived with Disability),Antigua and Barbuda,Both,All Ages,Anxiety disorders,Rate,2017,458.591356502,611.228642803,325.822899027
+YLDs (Years Lived with Disability),Andorra,Both,All Ages,Depressive disorders,Rate,2017,663.68054679,902.6815197950001,472.233031483
+YLDs (Years Lived with Disability),Seychelles,Both,All Ages,Anxiety disorders,Rate,2017,321.21490558200003,425.09256350499993,227.677716193
+YLDs (Years Lived with Disability),Andorra,Both,All Ages,Anxiety disorders,Rate,2017,501.777501174,663.638833202,358.266837417
+YLDs (Years Lived with Disability),El Salvador,Both,All Ages,Depressive disorders,Rate,2017,514.11798313,704.745767476,361.45265353499997
+YLDs (Years Lived with Disability),El Salvador,Both,All Ages,Anxiety disorders,Rate,2017,276.111329535,370.09233371100004,196.136759563
+YLDs (Years Lived with Disability),Thailand,Both,All Ages,Depressive disorders,Rate,2017,548.084110826,742.561074321,382.707253321
+YLDs (Years Lived with Disability),Thailand,Both,All Ages,Anxiety disorders,Rate,2017,348.72244925399997,463.35751267,249.364817518
+YLDs (Years Lived with Disability),South Sudan,Both,All Ages,Depressive disorders,Rate,2017,436.94173605099996,595.4978445,309.77961548999997
+YLDs (Years Lived with Disability),South Sudan,Both,All Ages,Anxiety disorders,Rate,2017,289.636664528,389.197915712,203.668135782
+YLDs (Years Lived with Disability),Niger,Both,All Ages,Anxiety disorders,Rate,2017,233.176287771,311.82267730800004,162.907042298
+YLDs (Years Lived with Disability),Turkmenistan,Both,All Ages,Depressive disorders,Rate,2017,411.75698767899996,565.3013420899999,289.957810531
+YLDs (Years Lived with Disability),Turkmenistan,Both,All Ages,Anxiety disorders,Rate,2017,231.12529191,307.63389022399997,162.68766894
+YLDs (Years Lived with Disability),Iran,Both,All Ages,Depressive disorders,Rate,2017,965.7359991930001,1328.73468658,670.152182079
+YLDs (Years Lived with Disability),Benin,Both,All Ages,Depressive disorders,Rate,2017,433.628078581,592.546423433,305.01353816700004
+YLDs (Years Lived with Disability),Benin,Both,All Ages,Anxiety disorders,Rate,2017,250.159149083,333.982802736,174.549202173
+YLDs (Years Lived with Disability),Peru,Both,All Ages,Depressive disorders,Rate,2017,346.09312164,473.26956733799994,245.27026034300002
+YLDs (Years Lived with Disability),Peru,Both,All Ages,Anxiety disorders,Rate,2017,393.49459054299996,524.9569603929999,277.392725945
+YLDs (Years Lived with Disability),Austria,Both,All Ages,Anxiety disorders,Rate,2017,494.14386301799993,658.298230589,353.052687888
+YLDs (Years Lived with Disability),Namibia,Both,All Ages,Anxiety disorders,Rate,2017,314.090255947,419.091001739,222.38451629300002
+YLDs (Years Lived with Disability),South Africa,Both,All Ages,Depressive disorders,Rate,2017,612.083783752,834.856496479,426.94422176600006
+YLDs (Years Lived with Disability),South Africa,Both,All Ages,Anxiety disorders,Rate,2017,371.90993963,499.545374949,262.662485891
+YLDs (Years Lived with Disability),Honduras,Both,All Ages,Depressive disorders,Rate,2017,395.437873453,539.1810194750001,278.274315022
+YLDs (Years Lived with Disability),Honduras,Both,All Ages,Anxiety disorders,Rate,2017,257.049518711,342.50861791100004,181.425543892
+YLDs (Years Lived with Disability),Slovakia,Both,All Ages,Depressive disorders,Rate,2017,457.21734002600004,617.679620569,322.815931837
+YLDs (Years Lived with Disability),Slovakia,Both,All Ages,Anxiety disorders,Rate,2017,340.878633758,453.295825181,242.090630465
+YLDs (Years Lived with Disability),Spain,Both,All Ages,Depressive disorders,Rate,2017,641.292468398,859.349847273,456.056466248
+YLDs (Years Lived with Disability),Spain,Both,All Ages,Anxiety disorders,Rate,2017,489.903103506,644.824322413,348.987198083
+YLDs (Years Lived with Disability),Guatemala,Both,All Ages,Depressive disorders,Rate,2017,488.157966433,664.338587176,339.907761918
+YLDs (Years Lived with Disability),Guatemala,Both,All Ages,Anxiety disorders,Rate,2017,261.935508384,349.946890536,185.147043911
+YLDs (Years Lived with Disability),Slovenia,Both,All Ages,Depressive disorders,Rate,2017,591.150149887,798.810036024,414.42801002000004
+YLDs (Years Lived with Disability),Slovenia,Both,All Ages,Anxiety disorders,Rate,2017,336.022927895,446.239225279,238.314071616
+YLDs (Years Lived with Disability),Tunisia,Both,All Ages,Depressive disorders,Rate,2017,703.1833544440001,958.881603603,494.723061868
+YLDs (Years Lived with Disability),Tunisia,Both,All Ages,Anxiety disorders,Rate,2017,482.13417538499993,642.2151128520001,342.74388634
+YLDs (Years Lived with Disability),Latvia,Both,All Ages,Depressive disorders,Rate,2017,691.504536539,924.3403758640001,489.362965233
+YLDs (Years Lived with Disability),Latvia,Both,All Ages,Anxiety disorders,Rate,2017,283.678809876,375.83031643,201.34313697500002
+YLDs (Years Lived with Disability),Ethiopia,Both,All Ages,Depressive disorders,Rate,2017,466.28011153999995,637.430039083,326.667154733
+YLDs (Years Lived with Disability),Bangladesh,Both,All Ages,Depressive disorders,Rate,2017,665.955955462,909.631530843,472.55864640000004
+YLDs (Years Lived with Disability),Uzbekistan,Both,All Ages,Depressive disorders,Rate,2017,424.606772133,585.506095557,298.53004719399996
+YLDs (Years Lived with Disability),Uzbekistan,Both,All Ages,Anxiety disorders,Rate,2017,233.53889864,313.219330726,164.28623578399998
+YLDs (Years Lived with Disability),Ethiopia,Both,All Ages,Anxiety disorders,Rate,2017,315.248108301,426.227031235,223.52247871699998
+YLDs (Years Lived with Disability),Mexico,Both,All Ages,Depressive disorders,Rate,2017,445.17459477,609.391982953,315.145181958
+YLDs (Years Lived with Disability),Mexico,Both,All Ages,Anxiety disorders,Rate,2017,295.222818931,395.335605451,207.82435200999998
+YLDs (Years Lived with Disability),Burkina Faso,Both,All Ages,Depressive disorders,Rate,2017,440.902721099,600.494569426,310.137372948
+YLDs (Years Lived with Disability),Burkina Faso,Both,All Ages,Anxiety disorders,Rate,2017,246.117575235,329.79562382,170.942203268
+YLDs (Years Lived with Disability),Bhutan,Both,All Ages,Depressive disorders,Rate,2017,508.95153263699996,695.402115965,358.238375782
+YLDs (Years Lived with Disability),Bhutan,Both,All Ages,Anxiety disorders,Rate,2017,352.74086318,472.964082974,250.23993349300002
+YLDs (Years Lived with Disability),France,Both,All Ages,Depressive disorders,Rate,2017,761.570111418,1031.186566,537.500293168
+YLDs (Years Lived with Disability),France,Both,All Ages,Anxiety disorders,Rate,2017,596.763587466,787.688239138,428.024904262
+YLDs (Years Lived with Disability),Kenya,Both,All Ages,Depressive disorders,Rate,2017,449.28079735800003,614.0219792910001,317.80215982799996
+YLDs (Years Lived with Disability),Kenya,Both,All Ages,Anxiety disorders,Rate,2017,320.719082473,431.54499474400006,223.874061635
+YLDs (Years Lived with Disability),Nepal,Both,All Ages,Depressive disorders,Rate,2017,529.2778913989999,717.470646756,374.715620075
+YLDs (Years Lived with Disability),Nepal,Both,All Ages,Anxiety disorders,Rate,2017,352.33022660299997,466.77869575299997,252.01526803800002
+YLDs (Years Lived with Disability),Senegal,Both,All Ages,Depressive disorders,Rate,2017,418.824399145,570.570326155,294.479800036
+YLDs (Years Lived with Disability),Senegal,Both,All Ages,Anxiety disorders,Rate,2017,253.96640133,342.05112571800004,178.860824925
+YLDs (Years Lived with Disability),Pakistan,Both,All Ages,Depressive disorders,Rate,2017,434.889536759,591.433950714,308.725740716
+YLDs (Years Lived with Disability),Pakistan,Both,All Ages,Anxiety disorders,Rate,2017,330.252725197,445.672612376,230.991792956
+YLDs (Years Lived with Disability),Denmark,Both,All Ages,Depressive disorders,Rate,2017,550.573865134,743.9656271140001,391.765057741
+YLDs (Years Lived with Disability),Madagascar,Both,All Ages,Depressive disorders,Rate,2017,463.055783639,636.317267433,326.645895791
+YLDs (Years Lived with Disability),Madagascar,Both,All Ages,Anxiety disorders,Rate,2017,303.418716634,405.342053435,212.785822145
+YLDs (Years Lived with Disability),Switzerland,Both,All Ages,Depressive disorders,Rate,2017,646.7841336800001,866.5929586,456.58765880699997
+YLDs (Years Lived with Disability),Germany,Both,All Ages,Depressive disorders,Rate,2017,681.865606943,917.7396698790001,484.454340718
+YLDs (Years Lived with Disability),Germany,Both,All Ages,Anxiety disorders,Rate,2017,595.398937722,784.637631724,427.36480644999995
+YLDs (Years Lived with Disability),Iraq,Both,All Ages,Depressive disorders,Rate,2017,574.682622326,792.2604705159999,406.13391136200005
+YLDs (Years Lived with Disability),Iraq,Both,All Ages,Anxiety disorders,Rate,2017,410.95402581200005,549.462943429,291.242629468
+YLDs (Years Lived with Disability),Denmark,Both,All Ages,Anxiety disorders,Rate,2017,489.273168757,648.961334121,347.719905504
+YLDs (Years Lived with Disability),Puerto Rico,Both,All Ages,Depressive disorders,Rate,2017,526.009295662,711.684677763,372.200432943
+YLDs (Years Lived with Disability),Puerto Rico,Both,All Ages,Anxiety disorders,Rate,2017,459.287566142,612.373045196,325.657842133
+YLDs (Years Lived with Disability),India,Both,All Ages,Depressive disorders,Rate,2017,550.169708338,748.309115459,389.882276914
+YLDs (Years Lived with Disability),India,Both,All Ages,Anxiety disorders,Rate,2017,309.394283928,413.737671077,219.65793047199998
+YLDs (Years Lived with Disability),Sweden,Both,All Ages,Depressive disorders,Rate,2017,797.047747975,1078.33085556,564.734797738
+YLDs (Years Lived with Disability),United Kingdom,Both,All Ages,Depressive disorders,Rate,2017,707.224983874,958.3476048160001,502.362561742
+YLDs (Years Lived with Disability),United Kingdom,Both,All Ages,Anxiety disorders,Rate,2017,418.464635611,556.332540723,294.70687102399995
+YLDs (Years Lived with Disability),Nicaragua,Both,All Ages,Depressive disorders,Rate,2017,445.313583514,610.131051575,312.59335443
+YLDs (Years Lived with Disability),Nicaragua,Both,All Ages,Anxiety disorders,Rate,2017,264.508996111,352.961683839,185.70817613
+YLDs (Years Lived with Disability),Lithuania,Both,All Ages,Depressive disorders,Rate,2017,845.735427548,1122.80240789,600.9561366629999
+YLDs (Years Lived with Disability),Lithuania,Both,All Ages,Anxiety disorders,Rate,2017,284.540029719,374.152498547,204.036028006
+YLDs (Years Lived with Disability),Sweden,Both,All Ages,Anxiety disorders,Rate,2017,480.10081332000004,640.976428139,341.450177817
+YLDs (Years Lived with Disability),Sierra Leone,Both,All Ages,Depressive disorders,Rate,2017,454.99484007899997,628.5611709220001,320.452340219
+YLDs (Years Lived with Disability),Sierra Leone,Both,All Ages,Anxiety disorders,Rate,2017,256.238684424,343.462796392,179.083116869
+YLDs (Years Lived with Disability),Jordan,Both,All Ages,Depressive disorders,Rate,2017,555.0481839830001,759.631744262,394.345939727
+YLDs (Years Lived with Disability),Jordan,Both,All Ages,Anxiety disorders,Rate,2017,447.146587478,594.629057564,316.31667870200005
+YLDs (Years Lived with Disability),Libya,Both,All Ages,Depressive disorders,Rate,2017,646.614124092,882.59043557,458.50339204899996
+YLDs (Years Lived with Disability),Libya,Both,All Ages,Anxiety disorders,Rate,2017,470.0220552,622.975823893,332.93606943500004
+YLDs (Years Lived with Disability),American Samoa,Both,All Ages,Depressive disorders,Rate,2017,395.435432028,536.139738675,279.056091736
+YLDs (Years Lived with Disability),American Samoa,Both,All Ages,Anxiety disorders,Rate,2017,301.448431787,404.19867642299994,212.28989960700002
+YLDs (Years Lived with Disability),Switzerland,Both,All Ages,Anxiety disorders,Rate,2017,490.296017607,649.2515535260001,349.039915617
+YLDs (Years Lived with Disability),Argentina,Both,All Ages,Anxiety disorders,Rate,2017,571.582679704,768.19866237,404.767281325
+YLDs (Years Lived with Disability),Togo,Both,All Ages,Depressive disorders,Rate,2017,478.263697363,657.6042670649999,335.693241976
+YLDs (Years Lived with Disability),Togo,Both,All Ages,Anxiety disorders,Rate,2017,259.858294565,348.51409586200003,182.47837907800002
+YLDs (Years Lived with Disability),Finland,Both,All Ages,Depressive disorders,Rate,2017,814.8516205120001,1093.49200627,577.905034862
+YLDs (Years Lived with Disability),Finland,Both,All Ages,Anxiety disorders,Rate,2017,336.976069612,444.140700313,240.16286332599998
+YLDs (Years Lived with Disability),"Virgin Islands, U.S.",Both,All Ages,Depressive disorders,Rate,2017,554.406704738,749.0229923840001,394.02424898099997
+YLDs (Years Lived with Disability),"Virgin Islands, U.S.",Both,All Ages,Anxiety disorders,Rate,2017,451.03158873199993,600.967896236,319.412655288
+YLDs (Years Lived with Disability),Morocco,Both,All Ages,Depressive disorders,Rate,2017,987.74883591,1346.12666053,688.575255273
+YLDs (Years Lived with Disability),Morocco,Both,All Ages,Anxiety disorders,Rate,2017,469.655149617,627.721226323,333.090453008
+YLDs (Years Lived with Disability),Bermuda,Both,All Ages,Depressive disorders,Rate,2017,563.546737791,763.812047072,395.03884384799994
+YLDs (Years Lived with Disability),Bermuda,Both,All Ages,Anxiety disorders,Rate,2017,467.31585887399996,623.970522373,329.972478841
+YLDs (Years Lived with Disability),Cameroon,Both,All Ages,Depressive disorders,Rate,2017,462.57745229299996,632.31663866,324.56086711899997
+YLDs (Years Lived with Disability),Cameroon,Both,All Ages,Anxiety disorders,Rate,2017,255.96704554899998,341.10518801300003,179.248591574
+YLDs (Years Lived with Disability),Moldova,Both,All Ages,Anxiety disorders,Rate,2017,284.76274253699995,379.017851923,201.55705489000002
+YLDs (Years Lived with Disability),Argentina,Both,All Ages,Depressive disorders,Rate,2017,580.419382294,786.319258042,404.547212928
+YLDs (Years Lived with Disability),Ghana,Both,All Ages,Depressive disorders,Rate,2017,459.12420477200004,623.1311821930001,325.119000173
+YLDs (Years Lived with Disability),Ghana,Both,All Ages,Anxiety disorders,Rate,2017,266.802626534,356.296546692,188.37593474000002
+YLDs (Years Lived with Disability),Moldova,Both,All Ages,Depressive disorders,Rate,2017,643.168963614,863.6493438040001,460.623942896
+YLDs (Years Lived with Disability),Brazil,Both,All Ages,Depressive disorders,Rate,2017,585.35299721,797.6381125539999,414.947364278
+YLDs (Years Lived with Disability),Brazil,Both,All Ages,Anxiety disorders,Rate,2017,594.345030809,797.7240020859999,421.83450158299996
+YLDs (Years Lived with Disability),Seychelles,Both,All Ages,Depressive disorders,Rate,2017,440.217182219,597.977591982,312.173060563
+YLDs (Years Lived with Disability),Palestine,Both,All Ages,Anxiety disorders,Rate,2017,430.50536073499995,572.0799112130001,306.08529221500004
+YLDs (Years Lived with Disability),Malawi,Both,All Ages,Depressive disorders,Rate,2017,419.733478818,574.350588777,292.981847896
+YLDs (Years Lived with Disability),Malawi,Both,All Ages,Anxiety disorders,Rate,2017,309.220354455,417.44943510599995,217.95764254699998
+YLDs (Years Lived with Disability),Paraguay,Both,All Ages,Depressive disorders,Rate,2017,462.968196277,628.732641306,328.36311954
+YLDs (Years Lived with Disability),Paraguay,Both,All Ages,Anxiety disorders,Rate,2017,548.837878154,732.83885509,387.21310505099996
+YLDs (Years Lived with Disability),Palestine,Both,All Ages,Depressive disorders,Rate,2017,704.723527533,964.374979636,489.81116546299995
+YLDs (Years Lived with Disability),Guinea,Both,All Ages,Depressive disorders,Rate,2017,433.22373287100004,597.285632969,302.946082482
+YLDs (Years Lived with Disability),Central African Republic,Both,All Ages,Depressive disorders,Rate,2017,610.666270327,833.825242878,428.81629793
+YLDs (Years Lived with Disability),Guinea,Both,All Ages,Anxiety disorders,Rate,2017,249.193906705,332.722729488,175.833844421
+YLDs (Years Lived with Disability),Angola,Both,All Ages,Depressive disorders,Rate,2017,528.735152229,723.9780040640001,368.597671175
+YLDs (Years Lived with Disability),Angola,Both,All Ages,Anxiety disorders,Rate,2017,270.245503522,362.969882042,189.058668028
+YLDs (Years Lived with Disability),Chad,Both,All Ages,Depressive disorders,Rate,2017,423.90088174,579.017138511,296.31418726600003
+YLDs (Years Lived with Disability),Greece,Both,All Ages,Anxiety disorders,Rate,2017,534.098185385,708.1538542139999,380.31625882000003
+YLDs (Years Lived with Disability),Oman,Both,All Ages,Depressive disorders,Rate,2017,610.5739037230001,844.9806392810001,429.90919360500004
+YLDs (Years Lived with Disability),Oman,Both,All Ages,Anxiety disorders,Rate,2017,448.240488431,601.549278378,322.018352938
+YLDs (Years Lived with Disability),Somalia,Both,All Ages,Depressive disorders,Rate,2017,450.73797704899994,613.429925841,315.513053464
+YLDs (Years Lived with Disability),Somalia,Both,All Ages,Anxiety disorders,Rate,2017,293.414924783,389.008486534,207.71806162299998
+YLDs (Years Lived with Disability),Chile,Both,All Ages,Depressive disorders,Rate,2017,680.7172365949999,931.6827462159999,476.268282838
+YLDs (Years Lived with Disability),Chile,Both,All Ages,Anxiety disorders,Rate,2017,582.867626486,777.460207891,413.754502361
+YLDs (Years Lived with Disability),Albania,Both,All Ages,Depressive disorders,Rate,2017,396.505245752,540.772451724,283.101184631
+YLDs (Years Lived with Disability),Albania,Both,All Ages,Anxiety disorders,Rate,2017,333.713497874,441.86356518599996,236.998770813
+YLDs (Years Lived with Disability),Cote d'Ivoire,Both,All Ages,Depressive disorders,Rate,2017,411.521369832,563.193531633,291.062464108
+YLDs (Years Lived with Disability),Cote d'Ivoire,Both,All Ages,Anxiety disorders,Rate,2017,253.28272372700002,339.057640143,179.80048478799998
+YLDs (Years Lived with Disability),Sudan,Both,All Ages,Depressive disorders,Rate,2017,533.749456366,728.710222933,374.279788708
+YLDs (Years Lived with Disability),Sudan,Both,All Ages,Anxiety disorders,Rate,2017,418.550468165,562.567627935,294.621114266
+YLDs (Years Lived with Disability),Papua New Guinea,Both,All Ages,Depressive disorders,Rate,2017,402.770510474,552.3277917940001,285.183635165
+YLDs (Years Lived with Disability),Papua New Guinea,Both,All Ages,Anxiety disorders,Rate,2017,273.283325176,365.713000675,193.200366748
+YLDs (Years Lived with Disability),The Gambia,Both,All Ages,Depressive disorders,Rate,2017,534.9774766,726.999159299,373.488299059
+YLDs (Years Lived with Disability),The Gambia,Both,All Ages,Anxiety disorders,Rate,2017,256.14648266,342.047365707,181.225408377
+YLDs (Years Lived with Disability),Central African Republic,Both,All Ages,Anxiety disorders,Rate,2017,290.969072535,388.692709867,202.854646462
+YLDs (Years Lived with Disability),Samoa,Both,All Ages,Depressive disorders,Rate,2017,383.791033973,524.932242827,271.81106759
+YLDs (Years Lived with Disability),Samoa,Both,All Ages,Anxiety disorders,Rate,2017,279.618219625,372.10588435,196.70546503500003
+YLDs (Years Lived with Disability),Bosnia and Herzegovina,Both,All Ages,Depressive disorders,Rate,2017,444.74206837300005,597.988240418,317.65533153
+YLDs (Years Lived with Disability),Bosnia and Herzegovina,Both,All Ages,Anxiety disorders,Rate,2017,340.766280536,454.24673570799996,242.769068228
+YLDs (Years Lived with Disability),Cape Verde,Both,All Ages,Depressive disorders,Rate,2017,657.387126683,903.494121966,462.285142637
+YLDs (Years Lived with Disability),Cape Verde,Both,All Ages,Anxiety disorders,Rate,2017,281.74680643,376.85034481,197.43197869600002
+YLDs (Years Lived with Disability),Saint Vincent and the Grenadines,Both,All Ages,Depressive disorders,Rate,2017,506.65182479099997,682.353786882,361.024997568
+YLDs (Years Lived with Disability),Russian Federation,Both,All Ages,Depressive disorders,Rate,2017,687.008161849,929.05722489,490.395310928
+YLDs (Years Lived with Disability),Russian Federation,Both,All Ages,Anxiety disorders,Rate,2017,281.62755701,373.742395605,199.16003031
+YLDs (Years Lived with Disability),Mauritius,Both,All Ages,Depressive disorders,Rate,2017,606.193688718,824.6926699290001,426.97699247500003
+YLDs (Years Lived with Disability),Mauritius,Both,All Ages,Anxiety disorders,Rate,2017,338.54305492000003,447.414462526,242.00189944700003
+YLDs (Years Lived with Disability),Saint Vincent and the Grenadines,Both,All Ages,Anxiety disorders,Rate,2017,437.74447641399996,582.7259108339999,308.684133933
+YLDs (Years Lived with Disability),Tanzania,Both,All Ages,Depressive disorders,Rate,2017,460.936709941,624.843988723,323.909284952
+YLDs (Years Lived with Disability),Tanzania,Both,All Ages,Anxiety disorders,Rate,2017,305.51694572099996,410.996885361,214.010854679
+YLDs (Years Lived with Disability),Ukraine,Both,All Ages,Depressive disorders,Rate,2017,814.0592951709999,1101.5170091799998,572.676472434
+YLDs (Years Lived with Disability),Ukraine,Both,All Ages,Anxiety disorders,Rate,2017,287.083829669,382.11125455900003,205.73032565
+YLDs (Years Lived with Disability),Uruguay,Both,All Ages,Depressive disorders,Rate,2017,586.361176728,794.3575771379999,412.36807315
+YLDs (Years Lived with Disability),Uruguay,Both,All Ages,Anxiety disorders,Rate,2017,577.561225802,770.455379968,407.28200500500003
+YLDs (Years Lived with Disability),Panama,Both,All Ages,Depressive disorders,Rate,2017,444.10565836100005,606.118463563,312.943433084
+YLDs (Years Lived with Disability),Panama,Both,All Ages,Anxiety disorders,Rate,2017,268.646626722,357.111224109,189.84588153
+YLDs (Years Lived with Disability),Grenada,Both,All Ages,Depressive disorders,Rate,2017,491.749070198,671.2137939730001,351.605913092
+YLDs (Years Lived with Disability),Suriname,Both,All Ages,Depressive disorders,Rate,2017,722.041905312,982.731505433,504.40306561299997
+YLDs (Years Lived with Disability),Suriname,Both,All Ages,Anxiety disorders,Rate,2017,435.591226188,581.472127446,308.197890798
+YLDs (Years Lived with Disability),Venezuela,Both,All Ages,Depressive disorders,Rate,2017,480.970462231,655.7236024270001,339.088049716
+YLDs (Years Lived with Disability),Venezuela,Both,All Ages,Anxiety disorders,Rate,2017,273.72164427399997,365.618802522,191.686501719
+YLDs (Years Lived with Disability),Congo,Both,All Ages,Depressive disorders,Rate,2017,592.338649916,809.655627834,415.617584646
+YLDs (Years Lived with Disability),Chad,Both,All Ages,Anxiety disorders,Rate,2017,233.29056844999997,312.610376866,163.672620714
+YLDs (Years Lived with Disability),Qatar,Both,All Ages,Depressive disorders,Rate,2017,690.172893229,938.280108796,484.219755632
+YLDs (Years Lived with Disability),Qatar,Both,All Ages,Anxiety disorders,Rate,2017,449.617691846,606.943533151,321.100099109
+YLDs (Years Lived with Disability),Congo,Both,All Ages,Anxiety disorders,Rate,2017,294.333033601,390.72916538600003,206.51122187099998
+YLDs (Years Lived with Disability),Greenland,Both,All Ages,Depressive disorders,Rate,2017,1090.01894268,1484.06245545,763.674494924
+YLDs (Years Lived with Disability),Greenland,Both,All Ages,Anxiety disorders,Rate,2017,536.0453077340001,708.897743428,385.83380949400004
+YLDs (Years Lived with Disability),Equatorial Guinea,Both,All Ages,Depressive disorders,Rate,2017,560.658560987,767.081374008,390.77789031
+YLDs (Years Lived with Disability),Democratic Republic of the Congo,Both,All Ages,Depressive disorders,Rate,2017,528.281029684,727.776988632,370.100600818
+YLDs (Years Lived with Disability),Democratic Republic of the Congo,Both,All Ages,Anxiety disorders,Rate,2017,276.43523251199997,368.400387448,195.503183583
+YLDs (Years Lived with Disability),Guam,Both,All Ages,Depressive disorders,Rate,2017,545.282888782,745.33616669,384.09169667000003
+YLDs (Years Lived with Disability),Uganda,Both,All Ages,Depressive disorders,Rate,2017,601.200972183,824.1942723230001,417.66870601100004
+YLDs (Years Lived with Disability),Uganda,Both,All Ages,Anxiety disorders,Rate,2017,287.819532525,383.911803982,201.109305805
+YLDs (Years Lived with Disability),Equatorial Guinea,Both,All Ages,Anxiety disorders,Rate,2017,284.317088679,376.768933066,202.25328752899998
+YLDs (Years Lived with Disability),Zambia,Both,All Ages,Depressive disorders,Rate,2017,438.55056362100004,605.764598534,308.648170893
+YLDs (Years Lived with Disability),Zambia,Both,All Ages,Anxiety disorders,Rate,2017,304.688853558,409.622060662,210.798672761
+YLDs (Years Lived with Disability),Guyana,Both,All Ages,Depressive disorders,Rate,2017,732.1523848019999,999.706111713,513.147377482
+YLDs (Years Lived with Disability),Guyana,Both,All Ages,Anxiety disorders,Rate,2017,426.96858834100004,568.447461798,300.25345266299996
+YLDs (Years Lived with Disability),Haiti,Both,All Ages,Depressive disorders,Rate,2017,444.949290821,602.5316178420001,310.754348477
+YLDs (Years Lived with Disability),Haiti,Both,All Ages,Anxiety disorders,Rate,2017,407.29364324600004,543.001037842,286.587348244
+YLDs (Years Lived with Disability),Greece,Both,All Ages,Depressive disorders,Rate,2017,752.128044256,1011.31323048,530.047498308
+YLDs (Years Lived with Disability),Guinea-Bissau,Both,All Ages,Depressive disorders,Rate,2017,442.021516466,600.515567188,311.41125957500003
+YLDs (Years Lived with Disability),Guinea-Bissau,Both,All Ages,Anxiety disorders,Rate,2017,252.08074153299998,338.42289938700003,175.782075239
+YLDs (Years Lived with Disability),Liberia,Both,All Ages,Depressive disorders,Rate,2017,485.80989141,661.215071827,344.286536195
+YLDs (Years Lived with Disability),Liberia,Both,All Ages,Anxiety disorders,Rate,2017,253.665653168,336.610881584,179.654503139
+YLDs (Years Lived with Disability),Saudi Arabia,Both,All Ages,Depressive disorders,Rate,2017,648.447208496,895.357817602,453.138388921
+YLDs (Years Lived with Disability),Saudi Arabia,Both,All Ages,Anxiety disorders,Rate,2017,485.977616288,648.252219822,342.357333473
+YLDs (Years Lived with Disability),Syria,Both,All Ages,Depressive disorders,Rate,2017,559.019398578,758.6878435259999,392.85783423400005
+YLDs (Years Lived with Disability),Syria,Both,All Ages,Anxiety disorders,Rate,2017,452.32580165600007,603.546735369,320.787119944
+Prevalence,Cyprus,Both,All Ages,Depressive disorders,Rate,2017,3624.84330336,3963.0452224200003,3336.53496612
+Prevalence,Cyprus,Both,All Ages,Anxiety disorders,Rate,2017,5244.00714561,5609.4136786,4923.61885884
+Prevalence,Denmark,Both,All Ages,Anxiety disorders,Rate,2017,5179.29666611,5519.66937918,4862.78745549
+Prevalence,Argentina,Both,All Ages,Depressive disorders,Rate,2017,3560.38413602,3879.97256137,3282.1055315300005
+Prevalence,Argentina,Both,All Ages,Anxiety disorders,Rate,2017,5963.9146043499995,6380.81655335,5582.87338679
+Prevalence,Albania,Both,All Ages,Depressive disorders,Rate,2017,2519.26628596,2746.9556173600004,2321.78807613
+Prevalence,Albania,Both,All Ages,Anxiety disorders,Rate,2017,3527.1909275,3746.1678165599997,3302.07094175
+Prevalence,Kiribati,Both,All Ages,Depressive disorders,Rate,2017,2624.78379936,2882.15522906,2414.2904780500003
+Prevalence,Kiribati,Both,All Ages,Anxiety disorders,Rate,2017,2950.12077654,3166.6792370099997,2744.37190171
+Prevalence,Lithuania,Both,All Ages,Depressive disorders,Rate,2017,5197.63957405,5607.55324506,4845.28714076
+Prevalence,Central African Republic,Both,All Ages,Depressive disorders,Rate,2017,3413.07763637,3763.26870242,3105.96508306
+Prevalence,Papua New Guinea,Both,All Ages,Depressive disorders,Rate,2017,2541.0429129999998,2793.2911883,2317.41367955
+Prevalence,Papua New Guinea,Both,All Ages,Anxiety disorders,Rate,2017,2855.58198674,3079.5866970800002,2650.39496814
+Prevalence,Central African Republic,Both,All Ages,Anxiety disorders,Rate,2017,3045.0992602,3276.0284229599997,2823.84540695
+Prevalence,Venezuela,Both,All Ages,Depressive disorders,Rate,2017,2755.65821696,2991.71435664,2534.98830183
+Prevalence,Venezuela,Both,All Ages,Anxiety disorders,Rate,2017,2830.5148449900003,3018.8757394900003,2643.1338470299997
+Prevalence,Samoa,Both,All Ages,Anxiety disorders,Rate,2017,2915.45150443,3127.00727801,2719.27016276
+Prevalence,Marshall Islands,Both,All Ages,Anxiety disorders,Rate,2017,3012.9071552,3231.6578474899998,2803.92620611
+Prevalence,Brazil,Both,All Ages,Depressive disorders,Rate,2017,3409.37200885,3679.5879956,3187.2023246100002
+Prevalence,Brazil,Both,All Ages,Anxiety disorders,Rate,2017,6230.9419584199995,6838.35741812,5681.8694423199995
+Prevalence,Turkmenistan,Both,All Ages,Anxiety disorders,Rate,2017,2404.4449311900003,2563.9192623100002,2249.77101589
+Prevalence,Fiji,Both,All Ages,Depressive disorders,Rate,2017,2987.4141969,3276.64719132,2740.28732927
+Prevalence,Uzbekistan,Both,All Ages,Depressive disorders,Rate,2017,2607.37839619,2845.4450470799998,2398.39241118
+Prevalence,Uzbekistan,Both,All Ages,Anxiety disorders,Rate,2017,2432.1828673699997,2596.7947405200002,2274.36700876
+Prevalence,Moldova,Both,All Ages,Depressive disorders,Rate,2017,4112.78665868,4464.22066909,3803.57374581
+Prevalence,Moldova,Both,All Ages,Anxiety disorders,Rate,2017,3026.8536829,3216.8135211699996,2836.11127868
+Prevalence,Fiji,Both,All Ages,Anxiety disorders,Rate,2017,3146.79832118,3360.71823156,2946.8171045000004
+Prevalence,Qatar,Both,All Ages,Depressive disorders,Rate,2017,3844.02990273,4274.239341580001,3447.1086901099998
+Prevalence,Qatar,Both,All Ages,Anxiety disorders,Rate,2017,4673.03460029,5073.26553408,4327.3444011
+Prevalence,Guinea,Both,All Ages,Depressive disorders,Rate,2017,2514.50949739,2758.32151265,2306.4229075000003
+Prevalence,Guinea,Both,All Ages,Anxiety disorders,Rate,2017,2583.90110997,2764.83553207,2398.02760251
+Prevalence,Latvia,Both,All Ages,Depressive disorders,Rate,2017,4454.97295358,4830.09595378,4114.562291679999
+Prevalence,Latvia,Both,All Ages,Anxiety disorders,Rate,2017,3047.45305698,3233.9768561499995,2862.76603371
+Prevalence,Tanzania,Both,All Ages,Depressive disorders,Rate,2017,2643.23005072,2908.8275010400002,2433.71821689
+Prevalence,Tanzania,Both,All Ages,Anxiety disorders,Rate,2017,3158.1717146100004,3392.1638823900003,2933.05880917
+Prevalence,American Samoa,Both,All Ages,Depressive disorders,Rate,2017,2667.01959511,2929.32317513,2435.84692146
+Prevalence,American Samoa,Both,All Ages,Anxiety disorders,Rate,2017,3160.0478872299996,3390.6125893400003,2949.43769715
+Prevalence,Guinea-Bissau,Both,All Ages,Depressive disorders,Rate,2017,2559.5654372900003,2808.2380898,2341.75262857
+Prevalence,Guinea-Bissau,Both,All Ages,Anxiety disorders,Rate,2017,2615.82840901,2805.94751095,2422.38406202
+Prevalence,China,Both,All Ages,Anxiety disorders,Rate,2017,3167.8891553,3457.3167163599996,2911.98730213
+Prevalence,Bermuda,Both,All Ages,Depressive disorders,Rate,2017,3390.4001657,3672.66326531,3129.32491905
+Prevalence,Bermuda,Both,All Ages,Anxiety disorders,Rate,2017,4896.921513259999,5244.78497835,4581.37902343
+Prevalence,Denmark,Both,All Ages,Depressive disorders,Rate,2017,3620.20641777,3946.13552004,3343.10814233
+Prevalence,Burundi,Both,All Ages,Depressive disorders,Rate,2017,2575.5796403500003,2841.5470510299997,2354.69447314
+Prevalence,Burundi,Both,All Ages,Anxiety disorders,Rate,2017,3102.78113398,3336.58968668,2878.25418876
+Prevalence,Canada,Both,All Ages,Depressive disorders,Rate,2017,3998.87344288,4348.94015783,3689.26447791
+Prevalence,Canada,Both,All Ages,Anxiety disorders,Rate,2017,5044.05935194,5381.31515138,4743.23239597
+Prevalence,Cambodia,Both,All Ages,Depressive disorders,Rate,2017,2780.6156106,3048.8171190499997,2548.29259692
+Prevalence,Cambodia,Both,All Ages,Anxiety disorders,Rate,2017,3101.53038515,3313.7943811799996,2916.30701168
+Prevalence,Congo,Both,All Ages,Depressive disorders,Rate,2017,3351.06935632,3683.6606907400005,3056.2185906900004
+Prevalence,Congo,Both,All Ages,Anxiety disorders,Rate,2017,3075.3054887599997,3307.7590310899996,2861.02711707
+Prevalence,Lithuania,Both,All Ages,Anxiety disorders,Rate,2017,3057.24474667,3244.22906588,2870.09736282
+Prevalence,Jamaica,Both,All Ages,Depressive disorders,Rate,2017,2661.30793155,2904.82134021,2465.93318786
+Prevalence,Russian Federation,Both,All Ages,Anxiety disorders,Rate,2017,3008.90800831,3304.28851887,2745.00843859
+Prevalence,Haiti,Both,All Ages,Depressive disorders,Rate,2017,2583.50404316,2844.94353924,2361.6172132700003
+Prevalence,Haiti,Both,All Ages,Anxiety disorders,Rate,2017,4269.77447987,4584.68786883,3966.96815186
+Prevalence,Comoros,Both,All Ages,Anxiety disorders,Rate,2017,3416.29549312,3648.4317404099997,3186.56132483
+Prevalence,Marshall Islands,Both,All Ages,Depressive disorders,Rate,2017,2656.59451735,2923.32246774,2430.84293967
+Prevalence,Uganda,Both,All Ages,Depressive disorders,Rate,2017,3265.40380585,3620.07524315,2979.82393427
+Prevalence,Uganda,Both,All Ages,Anxiety disorders,Rate,2017,2978.70992197,3245.6102257599996,2719.9516870700004
+Prevalence,Democratic Republic of the Congo,Both,All Ages,Depressive disorders,Rate,2017,2986.11828314,3294.76640119,2732.95274311
+Prevalence,Taiwan,Both,All Ages,Depressive disorders,Rate,2017,3785.40639826,4163.4800305399995,3460.22655905
+Prevalence,Taiwan,Both,All Ages,Anxiety disorders,Rate,2017,3659.4818384500004,3895.99699205,3436.0927578899996
+Prevalence,Iceland,Both,All Ages,Depressive disorders,Rate,2017,3519.16530102,3830.43596616,3251.7031917100003
+Prevalence,Hungary,Both,All Ages,Depressive disorders,Rate,2017,3535.7874563,3843.5474841699997,3270.6708545599995
+Prevalence,Hungary,Both,All Ages,Anxiety disorders,Rate,2017,3689.39597497,3937.02168481,3469.4525993999996
+Prevalence,Saint Vincent and the Grenadines,Both,All Ages,Depressive disorders,Rate,2017,2997.62302341,3262.2018076500003,2778.8961161499997
+Prevalence,Saint Vincent and the Grenadines,Both,All Ages,Anxiety disorders,Rate,2017,4577.11280281,4878.34668818,4279.63847087
+Prevalence,China,Both,All Ages,Depressive disorders,Rate,2017,3990.4932635,4352.9575991599995,3667.815471
+Prevalence,Germany,Both,All Ages,Depressive disorders,Rate,2017,4388.58547044,4745.20924393,4065.9895917799995
+Prevalence,Germany,Both,All Ages,Anxiety disorders,Rate,2017,6321.480592000001,6728.1360424,5952.73183546
+Prevalence,Saint Lucia,Both,All Ages,Depressive disorders,Rate,2017,3038.12956268,3298.0796485399997,2816.20763322
+Prevalence,Saint Lucia,Both,All Ages,Anxiety disorders,Rate,2017,4741.18933698,5057.10636864,4432.65512564
+Prevalence,Iceland,Both,All Ages,Anxiety disorders,Rate,2017,5100.5819986199995,5439.55118994,4779.2163507800005
+Prevalence,Egypt,Both,All Ages,Depressive disorders,Rate,2017,2843.07634685,3120.42053034,2611.99739896
+Prevalence,Armenia,Both,All Ages,Depressive disorders,Rate,2017,3070.0014358199996,3339.9281753799996,2836.2612194900003
+Prevalence,Armenia,Both,All Ages,Anxiety disorders,Rate,2017,2657.04809842,2831.90509252,2498.17528688
+Prevalence,Equatorial Guinea,Both,All Ages,Depressive disorders,Rate,2017,3107.0857441000003,3433.7446021499995,2823.84253193
+Prevalence,Equatorial Guinea,Both,All Ages,Anxiety disorders,Rate,2017,2945.70508813,3187.59958101,2719.1506913800004
+Prevalence,Liberia,Both,All Ages,Depressive disorders,Rate,2017,2816.87230247,3052.2981586,2608.21427674
+Prevalence,Liberia,Both,All Ages,Anxiety disorders,Rate,2017,2666.17696695,2861.2108565900003,2467.77162571
+Prevalence,Macedonia,Both,All Ages,Depressive disorders,Rate,2017,2758.50390183,2994.71275887,2554.9906094499997
+Prevalence,Jamaica,Both,All Ages,Anxiety disorders,Rate,2017,4657.66569576,4987.68845749,4346.17595095
+Prevalence,North Korea,Both,All Ages,Depressive disorders,Rate,2017,3520.41450029,3857.73069383,3234.4850785199997
+Prevalence,North Korea,Both,All Ages,Anxiety disorders,Rate,2017,3407.30520458,3632.8629137000003,3200.8781108900002
+Prevalence,Democratic Republic of the Congo,Both,All Ages,Anxiety disorders,Rate,2017,2888.34662659,3108.3803129400003,2685.0906827
+Prevalence,Macedonia,Both,All Ages,Anxiety disorders,Rate,2017,3580.69834626,3838.18420051,3368.81757606
+Prevalence,Indonesia,Both,All Ages,Depressive disorders,Rate,2017,2582.21246287,2852.85683675,2338.82746599
+Prevalence,Indonesia,Both,All Ages,Anxiety disorders,Rate,2017,3275.00417929,3591.9135580399998,2970.9702260500003
+Prevalence,Mali,Both,All Ages,Depressive disorders,Rate,2017,2006.9237449999998,2214.06593456,1838.43389292
+Prevalence,Mali,Both,All Ages,Anxiety disorders,Rate,2017,2511.9395994799997,2699.89785148,2317.28991984
+Prevalence,Iran,Both,All Ages,Depressive disorders,Rate,2017,5288.45883867,5901.06737538,4771.92671193
+Prevalence,Iran,Both,All Ages,Anxiety disorders,Rate,2017,7002.5474429000005,7765.3271912,6357.01583509
+Prevalence,Zambia,Both,All Ages,Depressive disorders,Rate,2017,2522.9035945299997,2776.2161297400003,2313.20694098
+Prevalence,Zambia,Both,All Ages,Anxiety disorders,Rate,2017,3147.8986962900003,3379.48751799,2918.61262381
+Prevalence,Finland,Both,All Ages,Depressive disorders,Rate,2017,5071.51770565,5450.06320227,4731.44550447
+Prevalence,Finland,Both,All Ages,Anxiety disorders,Rate,2017,3580.77289234,3790.20184908,3387.42913358
+Prevalence,Greece,Both,All Ages,Depressive disorders,Rate,2017,4632.61621296,5021.53493136,4301.49483172
+Prevalence,Greece,Both,All Ages,Anxiety disorders,Rate,2017,5669.705433499999,6034.80328037,5308.73511769
+Prevalence,Ghana,Both,All Ages,Depressive disorders,Rate,2017,2700.21045495,2961.54632734,2480.7904652
+Prevalence,Ghana,Both,All Ages,Anxiety disorders,Rate,2017,2763.38198952,2951.3049178799997,2568.38145798
+Prevalence,Czech Republic,Both,All Ages,Depressive disorders,Rate,2017,3260.7422113400003,3546.40582552,3021.86794972
+Prevalence,Bosnia and Herzegovina,Both,All Ages,Depressive disorders,Rate,2017,2837.2890442000003,3113.46315034,2596.37468798
+Prevalence,Bosnia and Herzegovina,Both,All Ages,Anxiety disorders,Rate,2017,3652.68480706,3908.19475033,3427.8956368999998
+Prevalence,Suriname,Both,All Ages,Depressive disorders,Rate,2017,3983.2275393900004,4303.74099365,3701.18285454
+Prevalence,Suriname,Both,All Ages,Anxiety disorders,Rate,2017,4544.94965902,4868.57550417,4261.66949358
+Prevalence,Czech Republic,Both,All Ages,Anxiety disorders,Rate,2017,3610.0806387099997,3856.1005815999997,3397.06565263
+Prevalence,Brunei,Both,All Ages,Depressive disorders,Rate,2017,2496.5687881,2744.11582513,2273.67001703
+Prevalence,Brunei,Both,All Ages,Anxiety disorders,Rate,2017,3502.3883989,3752.91357868,3274.93764209
+Prevalence,Azerbaijan,Both,All Ages,Anxiety disorders,Rate,2017,2554.07528053,2725.86796061,2391.3054088699996
+Prevalence,Nigeria,Both,All Ages,Depressive disorders,Rate,2017,2729.86279453,2997.81446301,2505.3663182
+Prevalence,Chile,Both,All Ages,Depressive disorders,Rate,2017,4096.7767682799995,4481.95656576,3784.6500686100003
+Prevalence,Nigeria,Both,All Ages,Anxiety disorders,Rate,2017,2592.0100398299996,2773.28996671,2404.66762053
+Prevalence,Tonga,Both,All Ages,Depressive disorders,Rate,2017,2542.35068547,2791.58021697,2327.40875105
+Prevalence,Chile,Both,All Ages,Anxiety disorders,Rate,2017,6117.87774883,6532.47465935,5732.17052602
+Prevalence,Antigua and Barbuda,Both,All Ages,Depressive disorders,Rate,2017,2751.99416667,3008.80656142,2530.02376374
+Prevalence,Antigua and Barbuda,Both,All Ages,Anxiety disorders,Rate,2017,4795.009164720001,5115.6833885099995,4480.5029905
+Prevalence,Sao Tome and Principe,Both,All Ages,Anxiety disorders,Rate,2017,2754.8557418,2953.50913135,2558.83663456
+Prevalence,Guam,Both,All Ages,Depressive disorders,Rate,2017,3493.57235549,3794.71403149,3217.0542997
+Prevalence,Guam,Both,All Ages,Anxiety disorders,Rate,2017,3232.64497467,3456.7930060699996,3034.15249627
+Prevalence,Trinidad and Tobago,Both,All Ages,Depressive disorders,Rate,2017,3549.8423297299996,3870.08920095,3296.55664001
+Prevalence,Trinidad and Tobago,Both,All Ages,Anxiety disorders,Rate,2017,4688.33118336,5013.39967153,4395.17028641
+Prevalence,France,Both,All Ages,Depressive disorders,Rate,2017,4489.01539411,4842.423837140001,4180.69405896
+Prevalence,France,Both,All Ages,Anxiety disorders,Rate,2017,6287.09231139,6696.155128269999,5918.76398332
+Prevalence,Federated States of Micronesia,Both,All Ages,Depressive disorders,Rate,2017,2794.0973288,3071.3261375300003,2567.17854603
+Prevalence,Federated States of Micronesia,Both,All Ages,Anxiety disorders,Rate,2017,3102.7202448099997,3324.46666058,2893.3531899600002
+Prevalence,Uruguay,Both,All Ages,Depressive disorders,Rate,2017,3648.8257884,3944.55169054,3382.0285254500004
+Prevalence,Uruguay,Both,All Ages,Anxiety disorders,Rate,2017,6048.41198644,6462.236314930001,5667.497502249999
+Prevalence,Laos,Both,All Ages,Depressive disorders,Rate,2017,2486.29787352,2737.1292951699998,2274.61068724
+Prevalence,Laos,Both,All Ages,Anxiety disorders,Rate,2017,3869.8925388000002,4139.01497236,3605.34393593
+Prevalence,United States,Both,All Ages,Depressive disorders,Rate,2017,4771.39702777,5138.63025458,4442.574706429999
+Prevalence,Japan,Both,All Ages,Depressive disorders,Rate,2017,3560.61454746,3832.37519107,3324.02281507
+Prevalence,Japan,Both,All Ages,Anxiety disorders,Rate,2017,3354.13210857,3667.2426524600005,3089.28592348
+Prevalence,Iraq,Both,All Ages,Anxiety disorders,Rate,2017,4294.45598555,4598.00059962,4010.54362925
+Prevalence,Belize,Both,All Ages,Depressive disorders,Rate,2017,2560.91685515,2807.98281653,2348.04494413
+Prevalence,Paraguay,Both,All Ages,Depressive disorders,Rate,2017,2727.06687591,2986.2433410599997,2521.15447777
+Prevalence,Paraguay,Both,All Ages,Anxiety disorders,Rate,2017,5714.6027874599995,6143.10319517,5326.28219384
+Prevalence,Belize,Both,All Ages,Anxiety disorders,Rate,2017,4398.2207875700005,4723.86421187,4101.61975704
+Prevalence,Turkey,Both,All Ages,Depressive disorders,Rate,2017,3792.8642443800004,4115.51684948,3509.9453949900003
+Prevalence,Turkey,Both,All Ages,Anxiety disorders,Rate,2017,3883.3712809999997,4143.64749657,3634.68479453
+Prevalence,Mauritania,Both,All Ages,Depressive disorders,Rate,2017,2279.8295410299997,2507.23265651,2094.62759571
+Prevalence,Malaysia,Both,All Ages,Depressive disorders,Rate,2017,3306.9519827299996,3602.4605851700003,3034.96648918
+Prevalence,Malaysia,Both,All Ages,Anxiety disorders,Rate,2017,4147.0978914,4435.7236194199995,3871.2121972200002
+Prevalence,Russian Federation,Both,All Ages,Depressive disorders,Rate,2017,4336.53573642,4744.21834218,3967.44563854
+Prevalence,Botswana,Both,All Ages,Depressive disorders,Rate,2017,3516.8213751499998,3871.5727332,3228.31422699
+Prevalence,Botswana,Both,All Ages,Anxiety disorders,Rate,2017,3396.7331893699998,3656.50916311,3153.3980852600002
+Prevalence,Yemen,Both,All Ages,Depressive disorders,Rate,2017,3146.54294987,3492.9084096399997,2842.71778909
+Prevalence,Yemen,Both,All Ages,Anxiety disorders,Rate,2017,4310.41679464,4617.749600720001,4005.21470712
+Prevalence,Saudi Arabia,Both,All Ages,Depressive disorders,Rate,2017,3650.9200597400004,4047.58510942,3317.35929228
+Prevalence,Saudi Arabia,Both,All Ages,Anxiety disorders,Rate,2017,5039.50001593,5434.37147433,4688.8558711900005
+Prevalence,Mauritania,Both,All Ages,Anxiety disorders,Rate,2017,2662.19023779,2851.1896755099997,2463.96914435
+Prevalence,Tonga,Both,All Ages,Anxiety disorders,Rate,2017,3070.67736752,3287.98862803,2865.6232464100003
+Prevalence,The Bahamas,Both,All Ages,Depressive disorders,Rate,2017,2705.45817795,2962.80815381,2496.07943824
+Prevalence,Ukraine,Both,All Ages,Depressive disorders,Rate,2017,5001.30181562,5477.53417241,4567.26946688
+Prevalence,Ukraine,Both,All Ages,Anxiety disorders,Rate,2017,3072.65468452,3377.12998492,2811.93253934
+Prevalence,United Arab Emirates,Both,All Ages,Depressive disorders,Rate,2017,3377.2201026499997,3797.06389711,3026.2787229
+Prevalence,United Arab Emirates,Both,All Ages,Anxiety disorders,Rate,2017,4700.9206269900005,5103.40027218,4336.80687123
+Prevalence,United States,Both,All Ages,Anxiety disorders,Rate,2017,6454.14785909,7059.67060938,5912.99241627
+Prevalence,Bulgaria,Both,All Ages,Depressive disorders,Rate,2017,3324.90662518,3610.6782339399997,3059.54413797
+Prevalence,Bulgaria,Both,All Ages,Anxiety disorders,Rate,2017,3867.94740287,4127.074606939999,3633.09377002
+Prevalence,Algeria,Both,All Ages,Depressive disorders,Rate,2017,3473.9066471,3817.6555589699997,3193.88100894
+Prevalence,Namibia,Both,All Ages,Depressive disorders,Rate,2017,2873.8371085900003,3149.12760955,2635.82238289
+Prevalence,Namibia,Both,All Ages,Anxiety disorders,Rate,2017,3270.5773063,3526.4783915900002,3039.24854236
+Prevalence,Ireland,Both,All Ages,Depressive disorders,Rate,2017,4272.63725708,4661.0993991000005,3948.65392548
+Prevalence,Samoa,Both,All Ages,Depressive disorders,Rate,2017,2502.95556906,2754.2085427800002,2297.05488356
+Prevalence,Myanmar,Both,All Ages,Depressive disorders,Rate,2017,2226.13104992,2462.02717386,2017.31102506
+Prevalence,Myanmar,Both,All Ages,Anxiety disorders,Rate,2017,3289.4814323600003,3518.0642624200004,3079.97161779
+Prevalence,Luxembourg,Both,All Ages,Depressive disorders,Rate,2017,3956.8787994299996,4317.34007687,3648.06536456
+Prevalence,Luxembourg,Both,All Ages,Anxiety disorders,Rate,2017,5202.71558035,5555.05865704,4879.51643293
+Prevalence,Ecuador,Both,All Ages,Depressive disorders,Rate,2017,2811.3039179,3076.29376175,2585.57402611
+Prevalence,Ecuador,Both,All Ages,Anxiety disorders,Rate,2017,4154.5301218,4446.44552211,3896.03756913
+Prevalence,Croatia,Both,All Ages,Depressive disorders,Rate,2017,3519.09079945,3808.58374808,3253.36057506
+Prevalence,Croatia,Both,All Ages,Anxiety disorders,Rate,2017,3659.81255496,3895.86458487,3442.3916392099995
+Prevalence,Tunisia,Both,All Ages,Depressive disorders,Rate,2017,4012.8318387599998,4383.3809674,3684.21057488
+Prevalence,Tunisia,Both,All Ages,Anxiety disorders,Rate,2017,5045.944430250001,5410.81217191,4731.224437780001
+Prevalence,Singapore,Both,All Ages,Depressive disorders,Rate,2017,3610.0042225600005,3926.4812616800004,3325.16790466
+Prevalence,Singapore,Both,All Ages,Anxiety disorders,Rate,2017,3622.2839012799996,3867.73949054,3397.59249849
+Prevalence,The Bahamas,Both,All Ages,Anxiety disorders,Rate,2017,4753.66740158,5069.84392248,4441.33662336
+Prevalence,Malta,Both,All Ages,Depressive disorders,Rate,2017,3724.1738812999997,4057.7899979500003,3432.49242218
+Prevalence,Malta,Both,All Ages,Anxiety disorders,Rate,2017,5179.94178695,5519.00637935,4860.64257105
+Prevalence,Northern Mariana Islands,Both,All Ages,Depressive disorders,Rate,2017,3500.7919531999996,3830.34244533,3194.53368349
+Prevalence,Northern Mariana Islands,Both,All Ages,Anxiety disorders,Rate,2017,3513.9211409600002,3751.8541196000006,3287.26791752
+Prevalence,Malawi,Both,All Ages,Depressive disorders,Rate,2017,2449.45002573,2697.43475032,2246.0372247699997
+Prevalence,Malawi,Both,All Ages,Anxiety disorders,Rate,2017,3199.6343102299998,3439.2656128500003,2968.54918598
+Prevalence,Greenland,Both,All Ages,Depressive disorders,Rate,2017,6152.8323297199995,6681.12953577,5674.7962368
+Prevalence,Greenland,Both,All Ages,Anxiety disorders,Rate,2017,5644.66960232,6018.9693672799995,5281.97065275
+Prevalence,Gabon,Both,All Ages,Depressive disorders,Rate,2017,3551.1106394,3898.3587542500004,3243.67722408
+Prevalence,Gabon,Both,All Ages,Anxiety disorders,Rate,2017,3164.1258222700003,3397.0962360699996,2959.78833319
+Prevalence,Cuba,Both,All Ages,Anxiety disorders,Rate,2017,4818.354243350001,5147.72733641,4517.6232347000005
+Prevalence,Philippines,Both,All Ages,Anxiety disorders,Rate,2017,3042.7072045699997,3257.7784993,2845.86776826
+Prevalence,Tajikistan,Both,All Ages,Depressive disorders,Rate,2017,2102.65810482,2308.5982733700002,1925.67404721
+Prevalence,Tajikistan,Both,All Ages,Anxiety disorders,Rate,2017,2287.9017723,2449.47683594,2139.93763344
+Prevalence,Algeria,Both,All Ages,Anxiety disorders,Rate,2017,4860.91763779,5215.16653067,4537.07651052
+Prevalence,Mauritius,Both,All Ages,Anxiety disorders,Rate,2017,3585.01665238,3820.7475865300003,3367.91858282
+Prevalence,South Sudan,Both,All Ages,Depressive disorders,Rate,2017,2523.39635444,2783.02304571,2306.1914991999997
+Prevalence,South Sudan,Both,All Ages,Anxiety disorders,Rate,2017,3028.55874076,3270.27443228,2795.6111499599997
+Prevalence,Maldives,Both,All Ages,Depressive disorders,Rate,2017,2908.31160075,3215.3743170999996,2656.12476758
+Prevalence,Maldives,Both,All Ages,Anxiety disorders,Rate,2017,3088.89157362,3301.140356,2889.7857201
+Prevalence,Serbia,Both,All Ages,Depressive disorders,Rate,2017,3134.98282109,3392.4797893,2894.68162047
+Prevalence,Serbia,Both,All Ages,Anxiety disorders,Rate,2017,3585.11520353,3814.48614242,3366.95460185
+Prevalence,Ireland,Both,All Ages,Anxiety disorders,Rate,2017,5535.88882044,5900.18885571,5180.68775216
+Prevalence,Slovakia,Both,All Ages,Depressive disorders,Rate,2017,2880.66942448,3133.34245879,2665.145591
+Prevalence,Slovakia,Both,All Ages,Anxiety disorders,Rate,2017,3631.59618743,3876.54403438,3413.76690349
+Prevalence,Syria,Both,All Ages,Depressive disorders,Rate,2017,3195.95255166,3520.3898976299997,2922.42876875
+Prevalence,Syria,Both,All Ages,Anxiety disorders,Rate,2017,4721.14259411,5062.69038835,4418.9274149
+Prevalence,Andorra,Both,All Ages,Depressive disorders,Rate,2017,4175.56900515,4563.65377841,3823.950409
+Prevalence,Andorra,Both,All Ages,Anxiety disorders,Rate,2017,5294.81219004,5662.02781512,4960.66971584
+Prevalence,Austria,Both,All Ages,Anxiety disorders,Rate,2017,5231.2488668,5586.710434279999,4909.65329078
+Prevalence,Solomon Islands,Both,All Ages,Depressive disorders,Rate,2017,2463.70828593,2698.0435591699998,2247.91824443
+Prevalence,Solomon Islands,Both,All Ages,Anxiety disorders,Rate,2017,2842.70804578,3062.5215619,2641.5935695499998
+Prevalence,Morocco,Both,All Ages,Depressive disorders,Rate,2017,5329.93750836,5846.60251737,4879.70500184
+Prevalence,Morocco,Both,All Ages,Anxiety disorders,Rate,2017,4940.660610280001,5300.84062959,4613.38788459
+Prevalence,Sao Tome and Principe,Both,All Ages,Depressive disorders,Rate,2017,2495.25618037,2741.34419388,2289.15492548
+Prevalence,Australia,Both,All Ages,Anxiety disorders,Rate,2017,6084.02170088,6506.99152378,5697.88392341
+Prevalence,South Africa,Both,All Ages,Depressive disorders,Rate,2017,3564.63292377,3878.9237736200002,3299.8901342000004
+Prevalence,South Africa,Both,All Ages,Anxiety disorders,Rate,2017,3906.14888683,4314.21186279,3556.7627285300005
+Prevalence,Israel,Both,All Ages,Depressive disorders,Rate,2017,3637.3872034700003,3962.1643448400005,3354.37253495
+Prevalence,Israel,Both,All Ages,Anxiety disorders,Rate,2017,2833.46831592,3003.9281453099998,2677.6085818700003
+Prevalence,Swaziland,Both,All Ages,Depressive disorders,Rate,2017,3272.27746897,3588.1442386000003,3012.48352757
+Prevalence,Swaziland,Both,All Ages,Anxiety disorders,Rate,2017,3243.69562852,3494.76860069,2999.14649853
+Prevalence,Palestine,Both,All Ages,Anxiety disorders,Rate,2017,4492.18640331,4828.3408569700005,4192.11790466
+Prevalence,Bolivia,Both,All Ages,Depressive disorders,Rate,2017,2725.8592503,2965.67704656,2510.5373918699997
+Prevalence,Bolivia,Both,All Ages,Anxiety disorders,Rate,2017,3962.85224229,4246.65618282,3713.3049083600004
+Prevalence,Sudan,Both,All Ages,Depressive disorders,Rate,2017,2987.5171912,3302.73395509,2698.66700912
+Prevalence,Sudan,Both,All Ages,Anxiety disorders,Rate,2017,4362.06978336,4691.56036131,4055.49095376
+Prevalence,Eritrea,Both,All Ages,Depressive disorders,Rate,2017,2826.56396393,3120.74625001,2586.3828005299997
+Prevalence,Eritrea,Both,All Ages,Anxiety disorders,Rate,2017,3295.8822508699996,3559.70840423,3048.1485057200002
+Prevalence,Netherlands,Both,All Ages,Depressive disorders,Rate,2017,4340.23463173,4709.23868279,4031.5015054699998
+Prevalence,Netherlands,Both,All Ages,Anxiety disorders,Rate,2017,6429.339363489999,6873.332388309999,6006.52224545
+Prevalence,Slovenia,Both,All Ages,Depressive disorders,Rate,2017,3589.51680978,3891.9914471,3334.6295191199997
+Prevalence,Slovenia,Both,All Ages,Anxiety disorders,Rate,2017,3613.93498021,3872.93336084,3400.7395572799996
+Prevalence,Lesotho,Both,All Ages,Depressive disorders,Rate,2017,4834.45115783,5287.1799132900005,4434.595462169999
+Prevalence,Lesotho,Both,All Ages,Anxiety disorders,Rate,2017,3319.8185588,3575.14483668,3079.2169749
+Prevalence,Zimbabwe,Both,All Ages,Depressive disorders,Rate,2017,2314.72640821,2544.03246092,2125.7528087
+Prevalence,Colombia,Both,All Ages,Depressive disorders,Rate,2017,2170.15120545,2354.5194000200004,2009.19229119
+Prevalence,Colombia,Both,All Ages,Anxiety disorders,Rate,2017,2446.21645195,2608.0710865600004,2301.32558696
+Prevalence,Bhutan,Both,All Ages,Depressive disorders,Rate,2017,3063.35153206,3365.42160464,2819.94207574
+Prevalence,Bhutan,Both,All Ages,Anxiety disorders,Rate,2017,3668.09511689,3938.8186555200004,3420.0534453699997
+Prevalence,Senegal,Both,All Ages,Depressive disorders,Rate,2017,2475.17013705,2713.82115257,2269.14404572
+Prevalence,Senegal,Both,All Ages,Anxiety disorders,Rate,2017,2635.46388957,2815.21701894,2445.64735088
+Prevalence,Italy,Both,All Ages,Depressive disorders,Rate,2017,3941.88921832,4281.13880495,3641.69235661
+Prevalence,Italy,Both,All Ages,Anxiety disorders,Rate,2017,5577.14212264,5922.31430982,5229.86260875
+Prevalence,Poland,Both,All Ages,Depressive disorders,Rate,2017,2690.86416367,2913.7080086700003,2493.01188518
+Prevalence,Poland,Both,All Ages,Anxiety disorders,Rate,2017,3640.3989025799997,3886.79008886,3427.99820863
+Prevalence,Comoros,Both,All Ages,Depressive disorders,Rate,2017,2774.3192470999998,3049.60879357,2556.2607785
+Prevalence,Zimbabwe,Both,All Ages,Anxiety disorders,Rate,2017,2790.22622379,2992.42492434,2584.25711041
+Prevalence,South Korea,Both,All Ages,Depressive disorders,Rate,2017,3525.0268334800003,3799.61330159,3296.60910498
+Prevalence,South Korea,Both,All Ages,Anxiety disorders,Rate,2017,3802.26147032,4066.14601888,3557.85244044
+Prevalence,Switzerland,Both,All Ages,Depressive disorders,Rate,2017,4102.150222329999,4465.21569647,3784.14674252
+Prevalence,Bahrain,Both,All Ages,Depressive disorders,Rate,2017,4245.77309211,4686.37379917,3862.4414550799997
+Prevalence,Bahrain,Both,All Ages,Anxiety disorders,Rate,2017,4897.8696877699995,5269.06744292,4574.24746437
+Prevalence,Timor-Leste,Both,All Ages,Depressive disorders,Rate,2017,2515.60194272,2775.3808849399998,2304.59300832
+Prevalence,India,Both,All Ages,Depressive disorders,Rate,2017,3310.06814025,3609.76811115,3070.34566011
+Prevalence,Switzerland,Both,All Ages,Anxiety disorders,Rate,2017,5194.87927381,5549.75984229,4875.78584867
+Prevalence,Sierra Leone,Both,All Ages,Depressive disorders,Rate,2017,2642.75070572,2893.23765163,2421.03129231
+Prevalence,Sierra Leone,Both,All Ages,Anxiety disorders,Rate,2017,2663.97437253,2855.62704111,2470.2737523799997
+Prevalence,Ethiopia,Both,All Ages,Depressive disorders,Rate,2017,2644.12598051,2924.0396960900002,2397.97995679
+Prevalence,Iraq,Both,All Ages,Depressive disorders,Rate,2017,3230.15082072,3544.8243083100006,2955.50680486
+Prevalence,Norway,Both,All Ages,Depressive disorders,Rate,2017,3975.86639591,4340.4467421,3643.41025714
+Prevalence,Norway,Both,All Ages,Anxiety disorders,Rate,2017,7379.145119270001,8092.40141203,6757.43640628
+Prevalence,India,Both,All Ages,Anxiety disorders,Rate,2017,3250.37028894,3541.9448654,2983.8750836199997
+Prevalence,Vanuatu,Both,All Ages,Depressive disorders,Rate,2017,2512.30162216,2769.40795768,2297.79050452
+Prevalence,Niger,Both,All Ages,Depressive disorders,Rate,2017,2121.51823376,2332.3413129799997,1936.1638689699998
+Prevalence,Barbados,Both,All Ages,Depressive disorders,Rate,2017,3169.4361084300003,3441.35292858,2919.18088484
+Prevalence,Thailand,Both,All Ages,Depressive disorders,Rate,2017,3710.5616568200003,4055.4210524699997,3412.8275888900002
+Prevalence,Thailand,Both,All Ages,Anxiety disorders,Rate,2017,3654.52924934,3893.8415084999997,3428.00578597
+Prevalence,Vietnam,Both,All Ages,Depressive disorders,Rate,2017,2941.87848058,3233.7007661,2698.30444351
+Prevalence,Vietnam,Both,All Ages,Anxiety disorders,Rate,2017,2087.49778105,2228.7862259,1957.99535313
+Prevalence,Bangladesh,Both,All Ages,Depressive disorders,Rate,2017,3838.92103688,4183.76132726,3541.61396646
+Prevalence,Bangladesh,Both,All Ages,Anxiety disorders,Rate,2017,4188.38929534,4477.96779677,3900.0038150500004
+Prevalence,Vanuatu,Both,All Ages,Anxiety disorders,Rate,2017,2875.17073999,3092.11752939,2675.5057071799997
+Prevalence,Puerto Rico,Both,All Ages,Depressive disorders,Rate,2017,3190.60729884,3461.64926387,2947.0510879999997
+Prevalence,Puerto Rico,Both,All Ages,Anxiety disorders,Rate,2017,4818.50043075,5147.517841520001,4527.56006435
+Prevalence,Philippines,Both,All Ages,Depressive disorders,Rate,2017,2430.4848315299996,2672.27804293,2228.28704921
+Prevalence,El Salvador,Both,All Ages,Depressive disorders,Rate,2017,2902.20084753,3170.7695893200003,2672.57718227
+Prevalence,El Salvador,Both,All Ages,Anxiety disorders,Rate,2017,2856.91873158,3050.5033535,2674.64250194
+Prevalence,Kazakhstan,Both,All Ages,Depressive disorders,Rate,2017,3372.56823649,3642.02908994,3123.35070643
+Prevalence,Kazakhstan,Both,All Ages,Anxiety disorders,Rate,2017,2486.14034653,2651.34124063,2330.17807055
+Prevalence,Benin,Both,All Ages,Depressive disorders,Rate,2017,2510.52320425,2759.17585459,2305.0490025
+Prevalence,Benin,Both,All Ages,Anxiety disorders,Rate,2017,2593.46405275,2790.7642483,2404.55097376
+Prevalence,Peru,Both,All Ages,Depressive disorders,Rate,2017,2147.83280795,2353.29785037,1976.544133
+Prevalence,Peru,Both,All Ages,Anxiety disorders,Rate,2017,4072.39634453,4362.3324446999995,3803.2208793600003
+Prevalence,Nepal,Both,All Ages,Depressive disorders,Rate,2017,3170.6763754999997,3462.5187221399997,2917.33871186
+Prevalence,Nepal,Both,All Ages,Anxiety disorders,Rate,2017,3680.2814734000003,3943.7325068699997,3429.81458489
+Prevalence,Montenegro,Both,All Ages,Depressive disorders,Rate,2017,2967.35681544,3222.38252412,2732.37711467
+Prevalence,Montenegro,Both,All Ages,Anxiety disorders,Rate,2017,3560.93596788,3802.7030597000003,3351.5380293
+Prevalence,Romania,Both,All Ages,Depressive disorders,Rate,2017,2913.7246934,3150.49685887,2692.60596134
+Prevalence,Djibouti,Both,All Ages,Depressive disorders,Rate,2017,2951.47032977,3238.6129777700003,2697.13158944
+Prevalence,Djibouti,Both,All Ages,Anxiety disorders,Rate,2017,3332.9999058599997,3559.7771992400003,3104.2161163
+Prevalence,Guatemala,Both,All Ages,Depressive disorders,Rate,2017,2718.56812088,2962.7979851,2495.41418759
+Prevalence,Guatemala,Both,All Ages,Anxiety disorders,Rate,2017,2697.9254811,2895.94437381,2515.7280751099997
+Prevalence,Egypt,Both,All Ages,Anxiety disorders,Rate,2017,4100.5857101500005,4388.4225041,3827.94334179
+Prevalence,Niger,Both,All Ages,Anxiety disorders,Rate,2017,2405.49897219,2579.38511236,2227.58293469
+Prevalence,Jordan,Both,All Ages,Depressive disorders,Rate,2017,3145.9676003000004,3452.2945420399997,2863.87967665
+Prevalence,Jordan,Both,All Ages,Anxiety disorders,Rate,2017,4646.52182931,4988.54707941,4327.278358629999
+Prevalence,Cameroon,Both,All Ages,Depressive disorders,Rate,2017,2663.43505114,2920.7033471699997,2442.26116624
+Prevalence,Cameroon,Both,All Ages,Anxiety disorders,Rate,2017,2651.50361553,2836.6470419800003,2458.82472461
+Prevalence,Romania,Both,All Ages,Anxiety disorders,Rate,2017,3448.3328752599996,3662.26754399,3251.7878506399998
+Prevalence,Dominican Republic,Both,All Ages,Depressive disorders,Rate,2017,2862.41715226,3125.4649448900004,2640.1270771
+Prevalence,Dominican Republic,Both,All Ages,Anxiety disorders,Rate,2017,4474.35966587,4792.25991512,4169.99967491
+Prevalence,Costa Rica,Both,All Ages,Depressive disorders,Rate,2017,2946.62268013,3203.0159332900002,2726.75034935
+Prevalence,Costa Rica,Both,All Ages,Anxiety disorders,Rate,2017,2914.61556886,3103.49098101,2727.92647555
+Prevalence,Ethiopia,Both,All Ages,Anxiety disorders,Rate,2017,3252.2657764799997,3614.25155423,2934.14046883
+Prevalence,Timor-Leste,Both,All Ages,Anxiety disorders,Rate,2017,2851.86993435,3046.31274922,2668.07416173
+Prevalence,Togo,Both,All Ages,Anxiety disorders,Rate,2017,2696.85310335,2891.95395767,2507.74565244
+Prevalence,"Virgin Islands, U.S.",Both,All Ages,Depressive disorders,Rate,2017,3311.7130931499996,3595.1357137399996,3058.35461719
+Prevalence,"Virgin Islands, U.S.",Both,All Ages,Anxiety disorders,Rate,2017,4727.1683605299995,5052.28270831,4434.12777037
+Prevalence,Australia,Both,All Ages,Depressive disorders,Rate,2017,4500.08255826,4884.5387462300005,4177.28285321
+Prevalence,Honduras,Both,All Ages,Depressive disorders,Rate,2017,2270.63360435,2486.27925145,2086.63945665
+Prevalence,Honduras,Both,All Ages,Anxiety disorders,Rate,2017,2651.3925762900003,2840.82159977,2476.39227497
+Prevalence,Sri Lanka,Both,All Ages,Depressive disorders,Rate,2017,3584.3887316600003,3885.94730952,3310.44119576
+Prevalence,Sri Lanka,Both,All Ages,Anxiety disorders,Rate,2017,3410.46241688,3626.7049835099997,3205.20054603
+Prevalence,Afghanistan,Both,All Ages,Depressive disorders,Rate,2017,2944.11223643,3257.97057808,2667.68677609
+Prevalence,Afghanistan,Both,All Ages,Anxiety disorders,Rate,2017,4116.54948202,4440.5878339500005,3826.4182821599998
+Prevalence,Grenada,Both,All Ages,Anxiety disorders,Rate,2017,4546.13832649,4843.0452654,4254.08886129
+Prevalence,Pakistan,Both,All Ages,Depressive disorders,Rate,2017,2628.11685271,2885.58183667,2409.63362976
+Prevalence,Pakistan,Both,All Ages,Anxiety disorders,Rate,2017,3428.05159414,3687.6125379499995,3188.1453318
+Prevalence,Cape Verde,Both,All Ages,Depressive disorders,Rate,2017,3727.53874964,4076.6691120200003,3432.09119122
+Prevalence,Cape Verde,Both,All Ages,Anxiety disorders,Rate,2017,2915.9419018,3115.66328457,2716.6232855999997
+Prevalence,Cuba,Both,All Ages,Depressive disorders,Rate,2017,3952.8735294300004,4291.87487254,3668.2407221400003
+Prevalence,United Kingdom,Both,All Ages,Depressive disorders,Rate,2017,4357.312178130001,4737.04777216,4013.4680463100003
+Prevalence,United Kingdom,Both,All Ages,Anxiety disorders,Rate,2017,4437.35152013,4790.32271125,4092.27851309
+Prevalence,Barbados,Both,All Ages,Anxiety disorders,Rate,2017,4834.611708050001,5167.8767530000005,4537.17476976
+Prevalence,Angola,Both,All Ages,Depressive disorders,Rate,2017,2952.2392606400003,3251.90132517,2695.4915069999997
+Prevalence,Spain,Both,All Ages,Depressive disorders,Rate,2017,3932.1895805500003,4258.624813060001,3645.3790050199996
+Prevalence,Dominica,Both,All Ages,Depressive disorders,Rate,2017,2819.5478355200003,3066.03720255,2616.26708915
+Prevalence,Dominica,Both,All Ages,Anxiety disorders,Rate,2017,4630.48103665,4931.27765051,4336.521470799999
+Prevalence,New Zealand,Both,All Ages,Depressive disorders,Rate,2017,3745.311404,4121.62704949,3437.84865127
+Prevalence,New Zealand,Both,All Ages,Anxiety disorders,Rate,2017,7763.79135647,8477.65643276,7088.07841241
+Prevalence,Chad,Both,All Ages,Depressive disorders,Rate,2017,2423.2156797099997,2676.9338962,2210.44532708
+Prevalence,Chad,Both,All Ages,Anxiety disorders,Rate,2017,2427.21669737,2613.43844645,2233.71064194
+Prevalence,Spain,Both,All Ages,Anxiety disorders,Rate,2017,5168.4652581,5505.14477187,4859.21642615
+Prevalence,Burkina Faso,Both,All Ages,Depressive disorders,Rate,2017,2541.2133599900003,2783.71570762,2328.25971264
+Prevalence,Burkina Faso,Both,All Ages,Anxiety disorders,Rate,2017,2551.99091285,2731.37927077,2367.5748340699997
+Prevalence,Austria,Both,All Ages,Depressive disorders,Rate,2017,3669.6571641,3981.1184358600003,3379.04478329
+Prevalence,Azerbaijan,Both,All Ages,Depressive disorders,Rate,2017,2568.26586912,2815.3741182500003,2362.58659323
+Prevalence,Kuwait,Both,All Ages,Depressive disorders,Rate,2017,3825.11424056,4246.23120669,3461.37291089
+Prevalence,Kuwait,Both,All Ages,Anxiety disorders,Rate,2017,5216.46174995,5633.01199363,4859.33314962
+Prevalence,Belgium,Both,All Ages,Depressive disorders,Rate,2017,4390.049474660001,4746.09999019,4084.36496103
+Prevalence,Sweden,Both,All Ages,Depressive disorders,Rate,2017,4774.78004592,5164.087031120001,4438.444579329999
+Prevalence,Sweden,Both,All Ages,Anxiety disorders,Rate,2017,5085.1365180600005,5587.4575276000005,4648.35202194
+Prevalence,Portugal,Both,All Ages,Depressive disorders,Rate,2017,5080.79266569,5505.40688657,4698.118036780001
+Prevalence,Portugal,Both,All Ages,Anxiety disorders,Rate,2017,5317.12489803,5676.54731495,4991.37617806
+Prevalence,Kenya,Both,All Ages,Depressive disorders,Rate,2017,2607.15426028,2859.80994347,2404.96190652
+Prevalence,Kenya,Both,All Ages,Anxiety disorders,Rate,2017,3310.88951854,3675.83140873,2974.26917728
+Prevalence,Georgia,Both,All Ages,Depressive disorders,Rate,2017,3231.76471993,3516.99887328,2981.46986825
+Prevalence,Georgia,Both,All Ages,Anxiety disorders,Rate,2017,2667.51073357,2841.30723857,2511.89004534
+Prevalence,Belgium,Both,All Ages,Anxiety disorders,Rate,2017,4968.57827476,5269.66707472,4690.97848849
+Prevalence,Cote d'Ivoire,Both,All Ages,Depressive disorders,Rate,2017,2431.38554442,2675.53439458,2231.0907039199997
+Prevalence,Cote d'Ivoire,Both,All Ages,Anxiety disorders,Rate,2017,2627.70833974,2810.82473909,2443.58290277
+Prevalence,Estonia,Both,All Ages,Depressive disorders,Rate,2017,4794.20334289,5217.231554530001,4450.64717718
+Prevalence,Estonia,Both,All Ages,Anxiety disorders,Rate,2017,3017.52008974,3199.7283092999996,2834.6070350600003
+Prevalence,The Gambia,Both,All Ages,Depressive disorders,Rate,2017,3019.9236910199998,3326.3207591899995,2758.57468089
+Prevalence,The Gambia,Both,All Ages,Anxiety disorders,Rate,2017,2668.0498222300002,2872.4272901,2473.20186125
+Prevalence,Palestine,Both,All Ages,Depressive disorders,Rate,2017,3833.48965742,4222.10686475,3509.76390183
+Prevalence,Rwanda,Both,All Ages,Depressive disorders,Rate,2017,2871.49644113,3159.7465323100005,2627.95741679
+Prevalence,Rwanda,Both,All Ages,Anxiety disorders,Rate,2017,3261.93213518,3496.78980027,3026.19709789
+Prevalence,Lebanon,Both,All Ages,Anxiety disorders,Rate,2017,5795.15120518,6225.1480815899995,5397.0967236
+Prevalence,Madagascar,Both,All Ages,Depressive disorders,Rate,2017,2650.13958648,2912.62404538,2429.31077384
+Prevalence,Madagascar,Both,All Ages,Anxiety disorders,Rate,2017,3142.1288417899996,3374.5625642400005,2916.26412029
+Prevalence,Mauritius,Both,All Ages,Depressive disorders,Rate,2017,3969.33959719,4321.69211595,3650.5419746099997
+Prevalence,Panama,Both,All Ages,Depressive disorders,Rate,2017,2580.48290995,2815.09736907,2382.03130376
+Prevalence,Panama,Both,All Ages,Anxiety disorders,Rate,2017,2781.0377297600003,2968.4107375000003,2612.63412471
+Prevalence,Mexico,Both,All Ages,Depressive disorders,Rate,2017,2638.30038104,2868.66067181,2443.2760669
+Prevalence,Mexico,Both,All Ages,Anxiety disorders,Rate,2017,3057.05596251,3340.25810133,2778.29616316
+Prevalence,Oman,Both,All Ages,Depressive disorders,Rate,2017,3442.43662951,3825.0448175100005,3098.1238722599996
+Prevalence,Oman,Both,All Ages,Anxiety disorders,Rate,2017,4656.82471419,5013.8159777,4299.99406985
+Prevalence,Mozambique,Both,All Ages,Depressive disorders,Rate,2017,2664.25669555,2934.06696081,2431.2563894
+Prevalence,Nicaragua,Both,All Ages,Depressive disorders,Rate,2017,2528.3161832,2754.74927538,2331.50665873
+Prevalence,Nicaragua,Both,All Ages,Anxiety disorders,Rate,2017,2727.1710425300002,2921.99923276,2548.53385142
+Prevalence,Mozambique,Both,All Ages,Anxiety disorders,Rate,2017,3186.99066811,3443.1214567600005,2939.156675
+Prevalence,Lebanon,Both,All Ages,Depressive disorders,Rate,2017,3356.7197515000003,3705.8155235,3075.80095566
+Prevalence,Turkmenistan,Both,All Ages,Depressive disorders,Rate,2017,2553.03243234,2790.61127662,2359.6559845799998
+Prevalence,Belarus,Both,All Ages,Depressive disorders,Rate,2017,4821.5575766,5235.77862678,4453.69107476
+Prevalence,Belarus,Both,All Ages,Anxiety disorders,Rate,2017,3021.09512968,3210.4322012200005,2829.07937722
+Prevalence,Angola,Both,All Ages,Anxiety disorders,Rate,2017,2813.32394617,3027.2172408300003,2605.26300662
+Prevalence,Libya,Both,All Ages,Depressive disorders,Rate,2017,3667.9869379499996,4059.7293280000004,3347.4572846099995
+Prevalence,Libya,Both,All Ages,Anxiety disorders,Rate,2017,4930.81928641,5307.22852775,4595.95774611
+Prevalence,Togo,Both,All Ages,Depressive disorders,Rate,2017,2767.57304922,3034.2644691299997,2547.81304919
+Prevalence,Grenada,Both,All Ages,Depressive disorders,Rate,2017,2930.39603359,3170.97003674,2718.50602958
+Prevalence,Guyana,Both,All Ages,Depressive disorders,Rate,2017,4000.52103007,4348.11034535,3696.0155185000003
+Prevalence,Guyana,Both,All Ages,Anxiety disorders,Rate,2017,4460.540018,4775.67886694,4158.19017137
+Prevalence,Kyrgyzstan,Both,All Ages,Depressive disorders,Rate,2017,2666.9723400400003,2909.62562853,2461.03481006
+Prevalence,Kyrgyzstan,Both,All Ages,Anxiety disorders,Rate,2017,2367.1700018300003,2526.39800368,2216.30249854
+Prevalence,Mongolia,Both,All Ages,Depressive disorders,Rate,2017,3230.20520435,3549.0537101600003,2975.9662077
+Prevalence,Mongolia,Both,All Ages,Anxiety disorders,Rate,2017,2418.22773714,2585.12776426,2264.92288697
+Prevalence,Seychelles,Both,All Ages,Depressive disorders,Rate,2017,3027.4839701399997,3326.4440042799997,2773.33382816
+Prevalence,Seychelles,Both,All Ages,Anxiety disorders,Rate,2017,3350.4995445,3559.45515324,3156.42706534
+Prevalence,Somalia,Both,All Ages,Depressive disorders,Rate,2017,2568.06699942,2836.29614541,2344.65114614
+Prevalence,Somalia,Both,All Ages,Anxiety disorders,Rate,2017,3037.89271523,3281.65337136,2810.92345154

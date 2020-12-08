@@ -1,0 +1,179 @@
+library(tidyverse)
+library(baggr) #This needs to be updated before running this code. You can do thia via 'install.packages("baggr")'.
+library(forestplot)
+library(readxl)
+library(xlsx)
+library(metaforest)
+library(ggplot2)
+
+setwd("..")
+
+#Set seed so that results are replicated 
+set.seed(1)
+
+
+
+
+## 1. Load Data, select studies ---------------------------------------------------------------------------------------------------------------------
+
+#Read the file with the all studies 
+require(xlsx)
+final_data <- read_excel("Raw Data/Figure 4/final_studies_master_updated.xlsx",sheet = "Sheet1")%>%
+  setNames(tolower(names(.))) %>%
+  rename(tau = te_transfers_index,
+         se = se_transfers_index)
+
+
+#Main figure with only final endlines 
+final_trials <- data.frame(filter(final_data %>%
+                                    select(trial, tau, se, type, country,cost_ppp)))
+
+final_trials$tau <- (final_trials$tau)*1000/(final_trials$cost_ppp)
+final_trials$se <- (final_trials$se)*1000/(final_trials$cost_ppp)
+
+final_trials['uci'] <- final_trials['tau'] + 1.96*final_trials['se']
+final_trials['lci'] <- final_trials['tau'] - 1.96*final_trials['se']
+
+
+#Separate trials according to type of transfer ("Cash Transfer" and "Graduation Program")   
+final_trials_assets <- data.frame(final_trials %>%
+                                    filter(type %in% c("Graduation Program")) %>% 
+                                    select(trial, tau, se, type, country,cost_ppp,uci,lci))
+n_assets = nrow(final_trials_assets)
+
+final_trials_cash <- data.frame(final_trials %>%
+                                  filter(type %in% c("Cash Transfer")) %>% 
+                                  select(trial, tau, se, type, country,cost_ppp,uci,lci))
+
+n_cash = nrow(final_trials_cash)
+
+final_trials_data <- rbind(final_trials_assets,final_trials_cash)
+
+##------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+## 2. Perform Bayesian meta analysis to estimate average treatment effects -----------------------------------------------------------------------------
+
+default_prior <- list(hypermean = normal(0, 1), 
+                      hypersd = normal(0, 0.1))
+
+# Meta-Analysis - All trials
+bg_final_trials <- baggr(final_trials_data, group = "trial", iter = 10000)
+print(bg_final_trials)
+
+# Meta-Analysis - Multifaceted anti-poverty Programs
+bg_final_assets <- baggr(final_trials_assets, group = "trial", iter = 10000)
+print(bg_final_assets)
+
+# Meta-Analysis - Cash Transfers
+bg_final_cash <- baggr(final_trials_cash, group = "trial", iter = 10000)
+print(bg_final_cash)
+
+
+# Obtain the treatment effects (overall, graduation program, and cash transfers, and by study) for the MAIN FIGURE
+plot_cols <- c("lci", "tau", "uci")
+
+te_final_all <- treatment_effect(bg_final_trials, summary = TRUE)$tau[c("2.5%", "mean", "97.5%")]
+names(te_final_all) <- plot_cols
+
+te_final_asset <- treatment_effect(bg_final_assets, summary = TRUE)$tau[c("2.5%", "mean", "97.5%")]
+names(te_final_asset) <- plot_cols
+
+te_final_cash <- treatment_effect(bg_final_cash, summary = TRUE)$tau[c("2.5%", "mean", "97.5%")]
+names(te_final_cash) <- plot_cols
+
+ge_assets <- final_trials_assets[plot_cols]
+ge_cash <- final_trials_cash[plot_cols]
+
+##-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+## 3. Plot graph ----------------------------------------------------------------------------------------------------------------------------------------
+#Create a forestplot
+# MAIN FIGURE
+
+vignette("forestplot") #To learn more about the package or refer to this:
+# https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html
+
+# To make a forest plot, you need to have a matrix of values and a matrix of text.
+
+# Create the matrix of values
+# Need to create three matrices so that forestplot will plot the cash and asset transfers and overall effect in different colors.
+fill_NAs <- function(x) matrix(NA,nrow=x,ncol=3,dimnames=list(NULL,plot_cols))
+
+forest_plot_final_asset <- rbind(NA,NA,NA, ge_assets         , NA, fill_NAs(n_cash), te_final_asset,NA, NA)
+
+forest_plot_final_cash  <- rbind(NA,NA,NA, fill_NAs(n_assets), NA, ge_cash         , NA,te_final_cash,NA)
+
+forest_plot_final_all <-   rbind(NA,NA,NA, fill_NAs(n_assets), NA, fill_NAs(n_cash), NA,NA,te_final_all)
+
+
+
+# Create the matrix of text. It is easier to write the text in Excel and then load the file. However, you can also write the labels in R. 
+
+forest_plot_text <- read_excel("Raw Data/Figure 4/final_studies_master_updated.xlsx", sheet="labels_all", col_names = FALSE, trim_ws = FALSE)%>%
+  setNames(tolower(names(.)))
+
+forest_plot_text[n_assets+n_cash+5,1] <- 'Multi-faceted anti-poverty programs effect (average:'
+forest_plot_text[n_assets+n_cash+5,2] <- sprintf(' %.3f SD/$1000)',te_final_asset['tau'])
+forest_plot_text[n_assets+n_cash+6,1] <- sprintf('Cash transfers effect (average: %.3f SD/$1000)',te_final_cash['tau'])
+forest_plot_text[n_assets+n_cash+7,1] <- sprintf('Overall effect (average: %.3f SD/$1000)',te_final_all['tau'])
+
+
+# Create the ticks for the x-axis
+xtick <- seq(from = -0.2, to = 1.8, by = 0.2)
+
+setwd("Output")
+setEPS()
+postscript("eps/fig_S3.eps",width = 14,height = 10)
+forestplot(forest_plot_text,
+           mean = cbind(forest_plot_final_asset[,'tau'],forest_plot_final_cash[,'tau'],forest_plot_final_all[,'tau']),
+           lower = cbind(forest_plot_final_asset[,"lci"],forest_plot_final_cash[,"lci"],forest_plot_final_all[,"lci"]),
+           upper = cbind(forest_plot_final_asset[,"uci"],forest_plot_final_cash[,"uci"],forest_plot_final_all[,"uci"]),
+           hrzl_lines = list("1" = gpar(col = "#444444"),
+                             "2" = gpar(columns = 2:8,col = "#444444"), 
+                             "3" = gpar(col = "#444444"),
+                             "4" = gpar(col = "#444444"),
+                             "19" = gpar(col = "#444444"),
+                             "20" = gpar(col = "#444444"),
+                             "43" = gpar(col = "#444444"),
+                             "46" = gpar(col = "#444444")), legend_args = fpLegend(pos = list(x=0.85, y=0.95),gp=gpar(col="#CCCCCC")),
+           is.summary = c(TRUE,TRUE,TRUE,rep(FALSE,n_assets),TRUE,rep(FALSE,n_cash),TRUE,TRUE,TRUE),boxsize = 0.20, col=fpColors(box= c("red","navyblue","black"), line = c("red","navyblue","black"), summary = c("red","navyblue","black")),txt_gp = fpTxtGp(cex = .75,xlab = gpar(cex = 0.8),ticks = gpar(cex = 0.75)),xticks = xtick,grid = structure(c(0.09123475),gp = gpar(lty = 2, col = "#CCCCCC")),colgap = unit(0.1,"mm"),align = c("l","c","c","c","c","c","c","c"), axis.text.x=element_text(face="bold"),xlab = "Treatment Effect (in Standard Deviation Units per $1000 PPP)")
+dev.off()
+
+pdf("pdf/fig_S3.pdf",width = 14,height = 10, onefile = F)
+forestplot(forest_plot_text,
+           mean = cbind(forest_plot_final_asset[,'tau'],forest_plot_final_cash[,'tau'],forest_plot_final_all[,'tau']),
+           lower = cbind(forest_plot_final_asset[,"lci"],forest_plot_final_cash[,"lci"],forest_plot_final_all[,"lci"]),
+           upper = cbind(forest_plot_final_asset[,"uci"],forest_plot_final_cash[,"uci"],forest_plot_final_all[,"uci"]),
+           hrzl_lines = list("1" = gpar(col = "#444444"),
+                             "2" = gpar(columns = 2:8,col = "#444444"), 
+                             "3" = gpar(col = "#444444"),
+                             "4" = gpar(col = "#444444"),
+                             "19" = gpar(col = "#444444"),
+                             "20" = gpar(col = "#444444"),
+                             "43" = gpar(col = "#444444"),
+                             "46" = gpar(col = "#444444")), legend_args = fpLegend(pos = list(x=0.85, y=0.95),gp=gpar(col="#CCCCCC")),
+           is.summary = c(TRUE,TRUE,TRUE,rep(FALSE,n_assets),TRUE,rep(FALSE,n_cash),TRUE,TRUE,TRUE),boxsize = 0.20, col=fpColors(box= c("red","navyblue","black"), line = c("red","navyblue","black"), summary = c("red","navyblue","black")),txt_gp = fpTxtGp(cex = .75,xlab = gpar(cex = 0.8),ticks = gpar(cex = 0.75)),xticks = xtick,grid = structure(c(0.09123475),gp = gpar(lty = 2, col = "#CCCCCC")),colgap = unit(0.1,"mm"),align = c("l","c","c","c","c","c","c","c"), axis.text.x=element_text(face="bold"),xlab = "Treatment Effect (in Standard Deviation Units per $1000 PPP)")
+dev.off()
+
+
+png("png/fig_S3.png",width = 14,height = 10,units='in',res=300)
+forestplot(forest_plot_text,
+           mean = cbind(forest_plot_final_asset[,'tau'],forest_plot_final_cash[,'tau'],forest_plot_final_all[,'tau']),
+           lower = cbind(forest_plot_final_asset[,"lci"],forest_plot_final_cash[,"lci"],forest_plot_final_all[,"lci"]),
+           upper = cbind(forest_plot_final_asset[,"uci"],forest_plot_final_cash[,"uci"],forest_plot_final_all[,"uci"]),
+           hrzl_lines = list("1" = gpar(col = "#444444"),
+                             "2" = gpar(columns = 2:8,col = "#444444"), 
+                             "3" = gpar(col = "#444444"),
+                             "4" = gpar(col = "#444444"),
+                             "19" = gpar(col = "#444444"),
+                             "20" = gpar(col = "#444444"),
+                             "43" = gpar(col = "#444444"),
+                             "46" = gpar(col = "#444444")), legend_args = fpLegend(pos = list(x=0.85, y=0.95),gp=gpar(col="#CCCCCC")),
+           is.summary = c(TRUE,TRUE,TRUE,rep(FALSE,n_assets),TRUE,rep(FALSE,n_cash),TRUE,TRUE,TRUE),boxsize = 0.20, col=fpColors(box= c("red","navyblue","black"), line = c("red","navyblue","black"), summary = c("red","navyblue","black")),txt_gp = fpTxtGp(cex = .75,xlab = gpar(cex = 0.8),ticks = gpar(cex = 0.75)),xticks = xtick,grid = structure(c(0.09123475),gp = gpar(lty = 2, col = "#CCCCCC")),colgap = unit(0.1,"mm"),align = c("l","c","c","c","c","c","c","c"), axis.text.x=element_text(face="bold"),xlab = "Treatment Effect (in Standard Deviation Units per $1000 PPP)")
+dev.off()
