@@ -55,6 +55,6 @@ graph twoway (bar pct group if cur_or_life == 1, color(navy)) (rcap upper lower 
 graph export "Output/png/fig_1.png", replace
 graph export "Output/eps/fig_1.eps", replace
 graph export "Output/svg/fig_1.svg", replace
-
+graph export "Output/pdf/fig_1.pdf", replace
 
 

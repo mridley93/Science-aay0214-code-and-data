@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="390.80" y1="2273.73" x2="3859.02" y2="2273.73" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="390.80" y1="1746.29" x2="3859.02" y2="1746.29" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="390.80" y1="1218.98" x2="3859.02" y2="1218.98" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="390.80" y1="691.54" x2="3859.02" y2="691.54" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<line x1="390.80" y1="164.22" x2="3859.02" y2="164.22" style="stroke:#E0E0E0;stroke-width:8.64"/>
+	<rect x="454.16" y="470.02" width="257.03" height="1803.71" style="fill:#486C8C"/>
+	<rect x="457.04" y="472.90" width="251.27" height="1797.95" style="fill:none;stroke:#1A476F;stroke-width:5.76"/>
+	<rect x="1225.25" y="617.66" width="257.03" height="1656.07" style="fill:#486C8C"/>
+	<rect x="1228.13" y="620.54" width="251.27" height="1650.31" style="fill:none;stroke:#1A476F;stroke-width:5.76"/>
+	<rect x="1996.46" y="749.58" width="257.03" height="1524.15" style="fill:#486C8C"/>
+	<rect x="1999.34" y="752.46" width="251.27" height="1518.39" style="fill:none;stroke:#1A476F;stroke-width:5.76"/>
+	<rect x="2767.55" y="1113.41" width="257.03" height="1160.32" style="fill:#486C8C"/>
+	<rect x="2770.42" y="1116.29" width="251.27" height="1154.56" style="fill:none;stroke:#1A476F;stroke-width:5.76"/>
+	<rect x="3538.63" y="1266.37" width="257.03" height="1007.36" style="fill:#486C8C"/>
+	<rect x="3541.51" y="1269.25" width="251.27" height="1001.60" style="fill:none;stroke:#1A476F;stroke-width:5.76"/>
+	<line x1="582.62" y1="448.48" x2="582.62" y2="488.83" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="537.57" y1="488.83" x2="627.54" y2="488.83" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="537.57" y1="448.48" x2="627.54" y2="448.48" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="1353.83" y1="598.84" x2="1353.83" y2="636.59" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="1308.78" y1="636.59" x2="1398.75" y2="636.59" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="1308.78" y1="598.84" x2="1398.75" y2="598.84" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2124.91" y1="733.37" x2="2124.91" y2="768.39" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2079.87" y1="768.39" x2="2169.83" y2="768.39" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2079.87" y1="733.37" x2="2169.83" y2="733.37" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2896.12" y1="1097.33" x2="2896.12" y2="1129.63" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2851.08" y1="1129.63" x2="2941.04" y2="1129.63" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2851.08" y1="1097.33" x2="2941.04" y2="1097.33" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="3667.21" y1="1252.88" x2="3667.21" y2="1279.86" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="3622.16" y1="1279.86" x2="3712.13" y2="1279.86" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="3622.16" y1="1252.88" x2="3712.13" y2="1252.88" stroke-linecap="round" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="390.80" y1="2273.73" x2="390.80" y2="100.86" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="390.80" y1="2273.73" x2="350.83" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="2273.73" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,2273.73)" text-anchor="middle">0</text>
+	<line x1="390.80" y1="1746.29" x2="350.83" y2="1746.29" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1746.29" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1746.29)" text-anchor="middle">1</text>
+	<line x1="390.80" y1="1218.98" x2="350.83" y2="1218.98" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1218.98" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1218.98)" text-anchor="middle">2</text>
+	<line x1="390.80" y1="691.54" x2="350.83" y2="691.54" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="691.54" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,691.54)" text-anchor="middle">3</text>
+	<line x1="390.80" y1="164.22" x2="350.83" y2="164.22" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="164.22" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,164.22)" text-anchor="middle">4</text>
+	<text x="190.71" y="1187.29" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 190.71,1187.29)" text-anchor="middle">Prevalence of depression (%)</text>
+	<line x1="390.80" y1="2273.73" x2="3859.02" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="582.62" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Lowest</text>
+	<text x="1353.83" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Second</text>
+	<text x="2124.91" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Third</text>
+	<text x="2896.12" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Fourth</text>
+	<text x="3667.21" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Highest</text>
+	<text x="2124.91" y="2473.60" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Income quintile</text>
+	<rect x="953.25" y="2558.24" width="2343.45" height="186.37" style="fill:#FFFFFF"/>
+	<rect x="956.13" y="2561.12" width="2337.69" height="180.61" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<rect x="996.43" y="2601.43" width="374.34" height="99.99" style="fill:#486C8C"/>
+	<rect x="999.31" y="2604.31" width="368.58" height="94.23" style="fill:none;stroke:#1A476F;stroke-width:5.76"/>
+	<line x1="2448.64" y1="2651.43" x2="2823.11" y2="2651.43" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2448.64" y1="2696.47" x2="2448.64" y2="2606.38" style="stroke:#000000;stroke-width:8.64"/>
+	<line x1="2823.11" y1="2696.47" x2="2823.11" y2="2606.38" style="stroke:#000000;stroke-width:8.64"/>
+	<text x="1430.80" y="2686.46" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">Current prevalence</text>
+	<text x="2883.00" y="2686.46" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">±1 SEM</text>
+</svg>

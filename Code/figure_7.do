@@ -94,4 +94,5 @@ graph bar psychiatrists-nurses, over(class2016, sort(ord)) 																				 
 graph export "Output/png/fig_7.png", replace
 graph export "Output/eps/fig_7.eps", replace
 graph export "Output/svg/fig_7.svg", replace
+graph export "Output/pdf/fig_7.pdf", replace
 cd Code

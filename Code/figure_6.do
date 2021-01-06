@@ -35,7 +35,7 @@ clean_country_names
 ** -----------------------------------------------------------------------------**
 
 preserve
- import delimited "Raw Data/Figure 6/Data_Extract_From_World_Development_Indicators/6dbd0edd-6c03-46b0-b3e7-e41a77df2ecc_Data.csv", varnames(1) clear
+ import delimited "Raw Data/Figure 6/Data_Extract_From_World_Development_Indicators/Data.csv", varnames(1) clear
  
  ren *countryname country
  ren yr2017 gdppc //Using GDP per capita data from 2017 - same year as prevalence
@@ -134,6 +134,8 @@ twoway (scatter pct_prevalence gdppc if cause == "Anxiety disorders", color("76 
 
 *Combine the two graphs---------------------------------------------------------
 graph combine "temp/prev_dep" "temp/prev_anx", graphregion(color(white))
-graph export "Output/$ext/fig_6.$ext", replace
+foreach ext in png eps svg pdf {
+	graph export "Output/`ext'/fig_6.`ext'", replace
+}
 
 cd Code

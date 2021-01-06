@@ -45,6 +45,7 @@ graph twoway (bar coeff t if t == 1, color(gs7) barw(0.6))															/* bar 
 graph export "Output/png/fig_3.png", replace;
 graph export "Output/eps/fig_3.eps", replace;
 graph export "Output/svg/fig_3.svg", replace;
+graph export "Output/pdf/fig_3.pdf", replace;
 
 #delimit cr
 

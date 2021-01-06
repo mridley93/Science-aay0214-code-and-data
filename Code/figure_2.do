@@ -138,4 +138,5 @@ graph bar pct_mhe, over(class2016, sort(ord)) 																				/// bars
 graph export "Output/png/fig_2.png", replace
 graph export "Output/eps/fig_2.eps", replace
 graph export "Output/svg/fig_2.svg", replace
+graph export "Output/pdf/fig_2.pdf", replace
 cd Code

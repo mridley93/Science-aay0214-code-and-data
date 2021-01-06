@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="63.36" y="63.36" width="1916.64" height="1376.64" style="fill:#FFFFFF"/>
+	<rect x="65.52" y="65.52" width="1912.32" height="1372.32" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<line x1="354.17" y1="1221.95" x2="1904.39" y2="1221.95" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="354.17" y1="1041.02" x2="1904.39" y2="1041.02" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="354.17" y1="860.09" x2="1904.39" y2="860.09" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="354.17" y1="679.16" x2="1904.39" y2="679.16" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="354.17" y1="498.36" x2="1904.39" y2="498.36" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="354.17" y1="317.43" x2="1904.39" y2="317.43" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<rect x="681.49" y="666.17" width="335.86" height="555.78" style="fill:#BDE0EB"/>
+	<rect x="683.65" y="668.33" width="331.54" height="551.46" style="fill:none;stroke:#ADD8E6;stroke-width:4.32"/>
+	<rect x="1241.21" y="895.48" width="335.73" height="326.46" style="fill:#486C8C"/>
+	<rect x="1243.37" y="897.64" width="331.41" height="322.14" style="fill:none;stroke:#1A476F;stroke-width:4.32"/>
+	<line x1="849.42" y1="694.88" x2="849.42" y2="637.46" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="832.96" y1="637.46" x2="866.00" y2="637.46" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="832.96" y1="694.88" x2="866.00" y2="694.88" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1409.14" y1="924.19" x2="1409.14" y2="866.90" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1392.68" y1="866.90" x2="1425.72" y2="866.90" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1392.68" y1="924.19" x2="1425.72" y2="924.19" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<path d=" M849.42 407.89 L1409.02 407.89" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:#000000;stroke-width:9.72"/>
+	<defs>
+		<path id="path_ltDWVOPH" d="M1061.40 445.39 M1061.40 445.39 L1197.03 445.39 L1197.03 370.40 L1061.40 370.40 L1061.40 445.39 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath_FsGJphyw">
+			<use xlink:href="#path_ltDWVOPH"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path_ltDWVOPH" style="stroke:none;fill:#FFFFFF"/>
+	<use xlink:href="#path_ltDWVOPH" style="fill:none;stroke:#FFFFFF;stroke-width:8.64" clip-path="url(#clipPath_FsGJphyw)"/>
+	<text x="1129.22" y="434.17" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle"> *** </text>
+	<text x="849.42" y="463.13" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">|</text>
+	<text x="1409.14" y="463.13" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">|</text>
+	<line x1="354.17" y1="1221.95" x2="354.17" y2="269.91" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="354.17" y1="1221.95" x2="324.23" y2="1221.95" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="286.69" y="1221.95" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 286.69,1221.95)" text-anchor="middle">0</text>
+	<line x1="354.17" y1="1041.02" x2="324.23" y2="1041.02" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="286.69" y="1041.02" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 286.69,1041.02)" text-anchor="middle">.2</text>
+	<line x1="354.17" y1="860.09" x2="324.23" y2="860.09" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="286.69" y="860.09" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 286.69,860.09)" text-anchor="middle">.4</text>
+	<line x1="354.17" y1="679.16" x2="324.23" y2="679.16" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="286.69" y="679.16" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 286.69,679.16)" text-anchor="middle">.6</text>
+	<line x1="354.17" y1="498.36" x2="324.23" y2="498.36" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="286.69" y="498.36" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 286.69,498.36)" text-anchor="middle">.8</text>
+	<line x1="354.17" y1="317.43" x2="324.23" y2="317.43" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="286.69" y="317.43" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 286.69,317.43)" text-anchor="middle">1</text>
+	<text x="206.38" y="745.86" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 206.38,745.86)" text-anchor="middle">Fraction</text>
+	<line x1="354.17" y1="1221.95" x2="1904.39" y2="1221.95" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="849.42" y1="1221.95" x2="849.42" y2="1251.89" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="849.42" y="1319.30" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">Control</text>
+	<line x1="1409.14" y1="1221.95" x2="1409.14" y2="1251.89" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1409.14" y="1319.30" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">Treatment</text>
+	<text x="1129.22" y="225.37" style="font-family:'Helvetica';font-size:104.94px;fill:#000000" text-anchor="middle">Depression (PHQ-9 score &gt; 10)</text>
+	<rect x="1980.00" y="63.36" width="1916.52" height="1376.64" style="fill:#FFFFFF"/>
+	<rect x="1982.16" y="65.52" width="1912.20" height="1372.32" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<line x1="2273.04" y1="1221.95" x2="3820.91" y2="1221.95" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2273.04" y1="1041.02" x2="3820.91" y2="1041.02" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2273.04" y1="860.09" x2="3820.91" y2="860.09" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2273.04" y1="679.16" x2="3820.91" y2="679.16" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2273.04" y1="498.36" x2="3820.91" y2="498.36" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="2273.04" y1="317.43" x2="3820.91" y2="317.43" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<rect x="2599.99" y="569.76" width="335.24" height="652.18" style="fill:#BDE0EB"/>
+	<rect x="2602.15" y="571.92" width="330.92" height="647.86" style="fill:none;stroke:#ADD8E6;stroke-width:4.32"/>
+	<rect x="3158.72" y="772.35" width="335.24" height="449.60" style="fill:#486C8C"/>
+	<rect x="3160.88" y="774.51" width="330.92" height="445.28" style="fill:none;stroke:#1A476F;stroke-width:4.32"/>
+	<line x1="2767.55" y1="624.96" x2="2767.55" y2="514.57" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="2751.09" y1="514.57" x2="2784.13" y2="514.57" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="2751.09" y1="624.96" x2="2784.13" y2="624.96" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="3326.40" y1="818.38" x2="3326.40" y2="726.44" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="3309.94" y1="726.44" x2="3342.98" y2="726.44" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="3309.94" y1="818.38" x2="3342.98" y2="818.38" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<path d=" M2767.55 407.89 L3326.28 407.89" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:#000000;stroke-width:9.72"/>
+	<defs>
+		<path id="path_jfkbArQr" d="M2979.16 445.39 M2979.16 445.39 L3114.79 445.39 L3114.79 370.40 L2979.16 370.40 L2979.16 445.39 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath_ybgYrQeB">
+			<use xlink:href="#path_jfkbArQr"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path_jfkbArQr" style="stroke:none;fill:#FFFFFF"/>
+	<use xlink:href="#path_jfkbArQr" style="fill:none;stroke:#FFFFFF;stroke-width:8.64" clip-path="url(#clipPath_ybgYrQeB)"/>
+	<text x="3046.97" y="434.17" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle"> *** </text>
+	<text x="2767.55" y="463.13" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">|</text>
+	<text x="3326.40" y="463.13" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">|</text>
+	<line x1="2273.04" y1="1221.95" x2="2273.04" y2="269.91" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="2273.04" y1="1221.95" x2="2242.97" y2="1221.95" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2205.44" y="1221.95" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2205.44,1221.95)" text-anchor="middle">0</text>
+	<line x1="2273.04" y1="1041.02" x2="2242.97" y2="1041.02" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2205.44" y="1041.02" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2205.44,1041.02)" text-anchor="middle">2</text>
+	<line x1="2273.04" y1="860.09" x2="2242.97" y2="860.09" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2205.44" y="860.09" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2205.44,860.09)" text-anchor="middle">4</text>
+	<line x1="2273.04" y1="679.16" x2="2242.97" y2="679.16" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2205.44" y="679.16" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2205.44,679.16)" text-anchor="middle">6</text>
+	<line x1="2273.04" y1="498.36" x2="2242.97" y2="498.36" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2205.44" y="498.36" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2205.44,498.36)" text-anchor="middle">8</text>
+	<line x1="2273.04" y1="317.43" x2="2242.97" y2="317.43" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2205.44" y="317.43" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2205.44,317.43)" text-anchor="middle">10</text>
+	<text x="2123.02" y="745.86" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 2123.02,745.86)" text-anchor="middle">Days per month</text>
+	<line x1="2273.04" y1="1221.95" x2="3820.91" y2="1221.95" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="2767.55" y1="1221.95" x2="2767.55" y2="1251.89" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="2767.55" y="1319.30" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">Control</text>
+	<line x1="3326.40" y1="1221.95" x2="3326.40" y2="1251.89" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="3326.40" y="1319.30" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">Treatment</text>
+	<text x="3046.97" y="225.37" style="font-family:'Helvetica';font-size:104.94px;fill:#000000" text-anchor="middle">Days unable to work</text>
+	<rect x="63.36" y="1440.00" width="1916.64" height="1376.64" style="fill:#FFFFFF"/>
+	<rect x="65.52" y="1442.16" width="1912.32" height="1372.32" style="fill:none;stroke:#FFFFFF;stroke-width:4.32"/>
+	<line x1="356.40" y1="2598.58" x2="1904.39" y2="2598.58" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="356.40" y1="2417.66" x2="1904.39" y2="2417.66" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="356.40" y1="2236.73" x2="1904.39" y2="2236.73" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="356.40" y1="2055.80" x2="1904.39" y2="2055.80" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="356.40" y1="1874.99" x2="1904.39" y2="1874.99" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<line x1="356.40" y1="1694.07" x2="1904.39" y2="1694.07" style="stroke:#E0E0E0;stroke-width:6.48"/>
+	<rect x="683.35" y="1992.56" width="335.24" height="606.02" style="fill:#BDE0EB"/>
+	<rect x="685.51" y="1994.72" width="330.92" height="601.70" style="fill:none;stroke:#ADD8E6;stroke-width:4.32"/>
+	<rect x="1242.20" y="2173.49" width="335.24" height="425.09" style="fill:#486C8C"/>
+	<rect x="1244.36" y="2175.65" width="330.92" height="420.77" style="fill:none;stroke:#1A476F;stroke-width:4.32"/>
+	<line x1="851.03" y1="2070.28" x2="851.03" y2="1914.84" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="834.57" y1="1914.84" x2="867.61" y2="1914.84" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="834.57" y1="2070.28" x2="867.61" y2="2070.28" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1409.76" y1="2243.16" x2="1409.76" y2="2103.69" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1393.30" y1="2103.69" x2="1426.34" y2="2103.69" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1393.30" y1="2243.16" x2="1426.34" y2="2243.16" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<path d=" M850.90 1784.53 L1409.76 1784.53" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:#000000;stroke-width:9.72"/>
+	<defs>
+		<path id="path_WnDbdqft" d="M1071.30 1822.03 M1071.30 1822.03 L1189.48 1822.03 L1189.48 1747.03 L1071.30 1747.03 L1071.30 1822.03 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath_CnnzGFqk">
+			<use xlink:href="#path_WnDbdqft"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path_WnDbdqft" style="stroke:none;fill:#FFFFFF"/>
+	<use xlink:href="#path_WnDbdqft" style="fill:none;stroke:#FFFFFF;stroke-width:8.64" clip-path="url(#clipPath_CnnzGFqk)"/>
+	<text x="1130.33" y="1810.81" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">  *  </text>
+	<text x="851.03" y="1839.77" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">|</text>
+	<text x="1409.76" y="1839.77" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">|</text>
+	<line x1="356.40" y1="2598.58" x2="356.40" y2="1646.55" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="356.40" y1="2598.58" x2="326.45" y2="2598.58" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="288.92" y="2598.58" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 288.92,2598.58)" text-anchor="middle">0</text>
+	<line x1="356.40" y1="2417.66" x2="326.45" y2="2417.66" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="288.92" y="2417.66" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 288.92,2417.66)" text-anchor="middle">20</text>
+	<line x1="356.40" y1="2236.73" x2="326.45" y2="2236.73" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="288.92" y="2236.73" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 288.92,2236.73)" text-anchor="middle">40</text>
+	<line x1="356.40" y1="2055.80" x2="326.45" y2="2055.80" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="288.92" y="2055.80" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 288.92,2055.80)" text-anchor="middle">60</text>
+	<line x1="356.40" y1="1874.99" x2="326.45" y2="1874.99" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="288.92" y="1874.99" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 288.92,1874.99)" text-anchor="middle">80</text>
+	<line x1="356.40" y1="1694.07" x2="326.45" y2="1694.07" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="288.92" y="1694.07" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 288.92,1694.07)" text-anchor="middle">100</text>
+	<text x="206.38" y="2122.50" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" transform="rotate(-90 206.38,2122.50)" text-anchor="middle">$ over 3 months</text>
+	<line x1="356.40" y1="2598.58" x2="1904.39" y2="2598.58" style="stroke:#000000;stroke-width:4.32"/>
+	<line x1="851.03" y1="2598.58" x2="851.03" y2="2628.53" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="851.03" y="2695.94" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">Control</text>
+	<line x1="1409.76" y1="2598.58" x2="1409.76" y2="2628.53" style="stroke:#000000;stroke-width:4.32"/>
+	<text x="1409.76" y="2695.94" style="font-family:'Helvetica';font-size:74.99px;fill:#000000" text-anchor="middle">Treatment</text>
+	<text x="1130.33" y="1602.01" style="font-family:'Helvetica';font-size:104.94px;fill:#000000" text-anchor="middle">Health costs</text>
+</svg>

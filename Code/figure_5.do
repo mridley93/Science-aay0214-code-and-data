@@ -97,3 +97,6 @@ foreach v in "Depression" "Days unable to work" "Health costs" {
 
 graph combine `forsave', graphregion(color(white))
 graph export "Output/png/fig_5.png", replace
+graph export "Output/eps/fig_5.eps", replace
+graph export "Output/svg/fig_5.svg", replace
+graph export "Output/pdf/fig_5.pdf", replace
