@@ -178,4 +178,20 @@ forestplot(forest_plot_text,
            is.summary = c(TRUE,TRUE,TRUE,rep(FALSE,n_assets),TRUE,rep(FALSE,n_cash),TRUE,TRUE,TRUE),boxsize = 0.20, col=fpColors(box= c("red","navyblue","black"), line = c("red","navyblue","black"), summary = c("red","navyblue","black")),txt_gp = fpTxtGp(cex = .75,xlab = gpar(cex = 0.8),ticks = gpar(cex = 0.75)),xticks = xtick,grid = structure(c(0.09760109),gp = gpar(lty = 2, col = "#CCCCCC")),colgap = unit(0.1,"mm"),align = c("l","c","c","c","c","c","c","c"), axis.text.x=element_text(face="bold"),xlab = "Treatment Effect (in Standard Deviation Units)")
 dev.off()
 
+svg("svg/fig_4.svg",width = 14,height = 10)
+forestplot(forest_plot_text,
+           mean = cbind(forest_plot_final_asset[,"tau"],forest_plot_final_cash[,"tau"],forest_plot_final_all[,"tau"]),
+           lower = cbind(forest_plot_final_asset[,"lci"],forest_plot_final_cash[,"lci"],forest_plot_final_all[,"lci"]),
+           upper = cbind(forest_plot_final_asset[,"uci"],forest_plot_final_cash[,"uci"],forest_plot_final_all[,"uci"]),
+           hrzl_lines = list("1" = gpar(col = "#444444"),
+                             "2" = gpar(columns = c(2:8),col = "#444444"),
+                             "3" = gpar(col = "#444444"),
+                             "4" = gpar(col = "#444444"),
+                             "14" = gpar(col = "#444444"),
+                             "15" = gpar(col = "#444444"),
+                             "33" = gpar(col = "#444444"),
+                             "36" = gpar(col = "#444444")), legend_args = fpLegend(pos = list(x=0.85, y=0.95),gp=gpar(col="#CCCCCC")),
+           is.summary = c(TRUE,TRUE,TRUE,rep(FALSE,n_assets),TRUE,rep(FALSE,n_cash),TRUE,TRUE,TRUE),boxsize = 0.20, col=fpColors(box= c("red","navyblue","black"), line = c("red","navyblue","black"), summary = c("red","navyblue","black")),txt_gp = fpTxtGp(cex = .75,xlab = gpar(cex = 0.8),ticks = gpar(cex = 0.75)),xticks = xtick,grid = structure(c(0.09760109),gp = gpar(lty = 2, col = "#CCCCCC")),colgap = unit(0.1,"mm"),align = c("l","c","c","c","c","c","c","c"), axis.text.x=element_text(face="bold"),xlab = "Treatment Effect (in Standard Deviation Units)")
+dev.off()
+
 setwd("../Code")
